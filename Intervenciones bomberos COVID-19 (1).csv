@@ -1,0 +1,814 @@
+﻿id_intervencion;fecha;distrito;descripcion;origen;duracion
+2003080287;08/03/2020;PUENTE VALLECAS;Humo en vivienda. Persona posiblemente afectada por covid19;Haberse quemado aceite en una sartén.;1,03
+2003080325;08/03/2020;TETUAN;Apertura de puerta;Persona en su interior;0,45
+2003120109;12/03/2020;ARGANZUELA;Apertura de puerta.;Propietaria caída en interior de vivienda.;0,18
+2003120294;12/03/2020;SAN BLAS;APERTURA DE PUERTA;DESCONOCIDO;0,21
+2003120394;12/03/2020;CENTRO;Apertura de puerta, persona enferma en su interior.;Posible COVID19, finalmente no había nadie en la vivienda.;2,02
+2003130111;13/03/2020;PUENTE VALLECAS;Apertura de puerta;Persona en cuarentena por coronavirus caída en su domicilio;1,05
+2003130346;13/03/2020;ARGANZUELA;PERSONA CAIDA EN EL INTERIOR DE UNA VIVIENDA. Apertura de puerta;PERSONA CAIDA EN EL INTERIOR DE SU VIVIENDA.;1,38
+2003140070;14/03/2020;FUENCARRAL;Apertura de Puerta;Persona caída en el interior;0,46
+2003150038;15/03/2020;CIUDAD LINEAL;Daños por agua;Mal funcionamiento de la llave de paso del grifo;0,48
+2003150058;15/03/2020;VILLAVERDE;APERTURA DE PUERTA;PERSONA MAYOR CAIDA EN DOMICILIO;1,16
+2003160006;16/03/2020;CENTRO;Facilitar ayuda a Samur. Apertura de puerta;Intoxicación por GHB;1,02
+2003160071;16/03/2020;ARGANZUELA;Apertura de puerta por sospecha de que el propietariop no responde.;No localizan al vecino.;0,55
+2003160095;16/03/2020;MORATALAZ;Apertura de puerta;Persona mayor que no contesta en su domicilio;1,31
+2003160117;16/03/2020;SALAMANCA;Descontaminacion de instalaciones.;Posible infeccion por coronavirus (COVID 19).;2,02
+2003160231;16/03/2020;CARABANCHEL;Persona que llevan varios días sin saber de el. Apertura de puerta;Se desconoce;1,43
+2003170079;17/03/2020;ARGANZUELA;Apertura de puerta;Indeterminado;0,14
+2003170085;17/03/2020;VILLAVERDE;Desinfección de zonas comunes Parque de Bomberos nº10;Preventivo;1,37
+2003170092;17/03/2020;PUENTE VALLECAS;Persona encerrada en vivienda que no responde a las llamadas telefonicas de los familiares. Apertura de puerta;Avanzada edad y enfermedad.;1,45
+2003170093;17/03/2020;FUENCARRAL;Aplicación medidas preventivas de descontaminación en Parque 9º;Preventivo;1,38
+2003170104;17/03/2020;CENTRO;apertura de puerta;caída persona;1,39
+2003170117;17/03/2020;LATINA;Aplicación medidas preventivas de descontaminación en parque 12º;Preventivas.;1,13
+2003170122;17/03/2020;SALAMANCA;Aplicación medidas preventivas de descontaminación en Parque 2º.;Preventivo.;0,12
+2003170128;17/03/2020;CIUDAD LINEAL;Apertura de puerta.;Desconocido.;0,18
+2003170133;17/03/2020;SALAMANCA;Apertura de puerta;Persona caída en interior de vivienda;1,16
+2003170146;17/03/2020;FUENCARRAL;Apertura de puerta (orden judicial);se desconoce;0,41
+2003170149;17/03/2020;CENTRO;Aplicación medidas preventivas de descontaminación en Parque 6º.;Preventivo;0,19
+2003170153;17/03/2020;CENTRO;Descontaminación de zonas comunes en Parque 5º;Preventivo;1,19
+2003170183;17/03/2020;HORTALEZA;Aplicación medidas preventivas de descontaminación en Parque 11º;Prenventiva.;0,18
+2003170192;17/03/2020;CENTRO;Aplicación de medidas de descontaminación en parque 3º.;Preventivo.;0
+2003170201;17/03/2020;TETUAN;Apertura de puerta vivienda.;Persona en interior no responde. Posible coronavirus;1,21
+2003170207;17/03/2020;CHAMARTIN;Persona en interior de vivienda. Apertura de puerta;persona en interior de vivienda;1,26
+2003170219;17/03/2020;SAN BLAS;Aplicación medidas preventivas de descontaminación en Parque 7º;Preventivo;0,49
+2003170304;17/03/2020;RETIRO;APERTURA DE PUERTA;PERSONA CAIDA EN EL INTERIOR DE LA VIVIENDA;0,38
+2003180029;18/03/2020;MORATALAZ;APERTURA DE PUERTA;DESCONOCIDO;0,49
+2003180078;18/03/2020;PUENTE VALLECAS;Aplicación medidas preventivas de descontaminación en Parque 8º;Preventivo;1,42
+2003180091;18/03/2020;CHAMBERI;Persona caída en domicilio. Apertura de puerta;Se desconoce;1,34
+2003180104;18/03/2020;MONCLOA;Aplicación medidas preventivas de descontaminación;Preventivo;0,57
+2003180176;18/03/2020;CENTRO;Aplicación medidas preventivas de descontaminación Parque 3º;Preventivo;1,36
+2003180231;18/03/2020;FUENCARRAL;APERTURA DE PUERTA;ALERTA UN VECINO MUJER PIDE AYUDA;0,35
+2003180269;18/03/2020;ARGANZUELA;Apertura de puerta;Persona enferma en interior;1,12
+2003190070;19/03/2020;CENTRO;PERSONAS EN EDIFICACIONES, PERSONA MAYOR CAIDA EN VIVIENDA. Apertura de puerta;SE DESCONOCE;0,08
+2003190085;19/03/2020;ARGANZUELA;acceso a domicilio. Apertura de puerta;posible COVID19;1,07
+2003190107;19/03/2020;TETUAN;Apertura de puerta.;se desconoce.;0,48
+2003190117;19/03/2020;CENTRO;APERTURA DE PUERTA de vivienda.;persona fallecida en el interior;1,06
+2003190176;19/03/2020;SAN BLAS;Apertura de puerta;Desconocido;0,45
+2003190179;19/03/2020;ARGANZUELA;DESCONTAMINACIÓN DE RESIDENCIA DE ANCIANOS MONTE HERMOSO;INFECCION DE CORONAVIRUS;5,4
+2003190180;19/03/2020;TETUAN;Cuidadora y PM esperan portal de acceso al inmueble. Cuidadora refiere malestar y tos en los días precedentes. El posible afectado sigue sin responder a nuestra llegada. Apertura de puerta;Persona de edad avanzada no responde a los requerimientos de su cuidadora.;0,16
+2003200077;20/03/2020;MONCLOA;APERTURA DE PUERTA;PERSONA MAYOR NO RESPONDE;1,2
+2003200078;20/03/2020;LATINA;Descontaminación por COVID19 de la Residencia de Mayores y Centro de día Montehermoso.;Servicio de descontaminación relacionado con COVID19;8,14
+2003200124;20/03/2020;ARGANZUELA;APERTURA DE PUERTA.;PERSONA ENFERMA NO RESPONDE.;0,32
+2003200178;20/03/2020;MORATALAZ;PERSONA MAYOR, POSIBLE POSITIVO DE COVID19. Apertura de puerta;SE DESCONOCE;0,4
+2003200303;20/03/2020;LATINA;Descontaminación instalaciones;Preventivo;0,27
+2003200331;20/03/2020;LATINA;recogida de material;se desconoce;0,24
+2003200333;20/03/2020;CARABANCHEL;Apertura de puerta;Se desconoce;0,44
+2003210017;21/03/2020;FUENCARRAL;Apertura de puerta;avería;0,21
+2003210033;21/03/2020;RETIRO;Apertura de puerta;Persona caída en interior de vivienda;0,51
+2003210061;21/03/2020;ARGANZUELA;APERTURA DE PUERTA;DESCONOCIDO;0,47
+2003210072;21/03/2020;LATINA;DESCONTAMINACIÓN DE RESIDENCIA DE ANCIANOS MONTEHERMOSO;DESCONTAMINACIÓN DE EDIFICIOS RELACIONADO CON LA CRISIS DEL COVID 19;5,15
+2003210074;21/03/2020;ARGANZUELA;APERTURA DE PUERTA POR PERSONA MAYOR CAIDA.;PERSONA CAIDA EN EL BAÑO;2,46
+2003210177;21/03/2020;CHAMARTIN;Apertura de puerta;Persona no responde;0,19
+2003210230;21/03/2020;CARABANCHEL;APERTURA DE PUERTA;PERSONA CON POSIBLE CORONAVIRUS NO RESPONDE;1,48
+2003220003;22/03/2020;ARGANZUELA;PERSONA CAÍDA EN BAÑO CON HERIDA EN LA CABEZA. Apertura de puerta;DESVANECIMIENTO POR POSIBLE COVID.19;0,57
+2003220055;22/03/2020;VILLAVERDE;Apertura de puerta por señora que pide auxilio y refiere que no se puede mover y que ve sangre a su alrededor. Posible covid19.;Desconocido.;1,59
+2003220061;22/03/2020;HORTALEZA;APERTURA DE PUERTA;PERSONA CON POSIBLE ICTUS;0,5
+2003220065;22/03/2020;CENTRO;Desinfección de comisaria.;Posible riesgo biológico coronavirus.;1,25
+2003220075;22/03/2020;TETUAN;Apertura de puerta de una vivienda;Persona no responde en su interior;2,51
+2003220086;22/03/2020;ARGANZUELA;Desinfección de exterior y salas de emergencias del Hospital;Preventivo;5,19
+2003220118;22/03/2020;PUENTE VALLECAS;Descontaminación de coche patrulla.;Desconocido;1,09
+2003220129;22/03/2020;VILLA DE VALLECAS;Apertura de puerta;Persona que no contesta en el interior de su vivienda;1,45
+2003220142;22/03/2020;SALAMANCA;Persona con síntomas compatibles con infección por COVID19. Apertura de puerta;Se desconoce;0,43
+2003220157;22/03/2020;CHAMBERI;Desinfección de varias zonas.;Posible riesgo biológico por coronavirus.;1,45
+2003220160;22/03/2020;ARGANZUELA;Apertura de puerta.;Se desconoce.;1,17
+2003220174;22/03/2020;CENTRO;DESCONTAMINACIÓN Y DESINFECCION DE RESIDENCIA;COVID 19;1,2
+2003220209;22/03/2020;USERA;Persona en el interior que no responde. Apertura de puerta;Se desconoce.;0,41
+2003220222;22/03/2020;VILLA DE VALLECAS;Apertura de Puerta;Persona que no responde en el interior;0,49
+2003220248;22/03/2020;FUENCARRAL;Apertura de puerta;Persona fallecida en el interior;1,02
+2003230004;23/03/2020;PUENTE VALLECAS;Apertura de puerta en vivienda;Persona en su interior que no responde;1,35
+2003230035;23/03/2020;LATINA;APERTURA DE PUERTA;PERSONAS MAYORES PIDIENDO AUXILIO;0,55
+2003230061;23/03/2020;MONCLOA;apertura de puerta;persona caída en interior;0,41
+2003230071;23/03/2020;ARGANZUELA;Desinfección de instalaciones por Covid19.;Preventivo;4,31
+2003230073;23/03/2020;SAN BLAS;Descontaminación de varias estancias afectadas por posible existencia de covid 19.;Medidas preventivas.;3,41
+2003230079;23/03/2020;BARAJAS;Toma de imágenes del dispositivo activado en el IFEMA;Mando UIC;2,51
+2003230091;23/03/2020;SALAMANCA;Apertura de puerta por persona caída;Se desconoce;1,17
+2003230128;23/03/2020;BARAJAS;reten bomberos recinto IFEMA;hospital enfermos coronavirus;8,51
+2003230175;23/03/2020;ARGANZUELA;Apertura de puerta.;Se desconoce.;2,19
+2003230185;23/03/2020;ARGANZUELA;Desinfección de instalaciones por riesgo Covid19;Preventivo;1,49
+2003230186;23/03/2020;PUENTE VALLECAS;APERTURA DE PUERTA.;PERSONA ENFERMA EN EL INTERIOR.;1,34
+2003230212;23/03/2020;MONCLOA;Desinfección de instalaciones por riesgo Covid19;Preventivo;1,51
+2003230244;23/03/2020;CENTRO;Persona en el interior de una vivienda que llevan días sin ver, al parecer según los vecinos tiene el síndrome de diógenes. Apertura de puerta;Lamada de un vecino.;2,43
+2003230280;23/03/2020;VILLAVERDE;Descontaminación Parque 10º por posible positivos por coronavirus de 5 compañeros del turno.;Desconocido.;1,52
+2003230293;23/03/2020;MORATALAZ;APERTURA DE PUERTA;DESCONOCIDO;1,57
+2003230308;23/03/2020;MORATALAZ;Apertura de puerta.;Desconocido.;0,51
+2003230312;23/03/2020;PUENTE VALLECAS;Persona caída en domicilio. Apertura de puerta;Se desconoce.;1,14
+2003240004;24/03/2020;CENTRO;Apertura de puerta con persona fallecida en el interior.;Requerimiento de PN y juzgado.;2,25
+2003240046;24/03/2020;CARABANCHEL;APERTURA DE PUERTA;PERSONA DE EDAD AVANZADA CAIDA DENTRO DE LA VIVIENDA;0,33
+2003240060;24/03/2020;ARGANZUELA;Persona que se arroja al vacío.;Se desconoce.;1,11
+2003240067;24/03/2020;MORATALAZ;PUERTA DE VIVIENDA CERRADA CON PERSONA CAIDA EN EL INTERIOR DE LA MISMA Y PIDIENDO AUXILIO. Apertura de puerta;SEGUN RECONOCIMIENTO DEL SERVICIO , POR LA AVANZADA EDAD DE LA VICTIMA Y FALTA DE MOVILIDAD .;1,19
+2003240083;24/03/2020;BARAJAS;Salida del reten al Ifema de furgoneta del 7º Ejecutar estructura para bomba de vació, en pabellón de IFEMA;Construcción del hospital de Campaña;24,08
+2003240091;24/03/2020;ARGANZUELA;Descontaminación y desinfección de una dependencia municipal de PM;Actividad agendada Covid19;1,43
+2003240097;24/03/2020;RETIRO;Persona caida en interior de vivienda. Apertura de puerta;Enfermedad covid 19;1,08
+2003240100;24/03/2020;ARGANZUELA;Descontaminacion y desinfección de instalación del Hospital Gregorio Marañón;Agenda de actividades COVID 19;3,2
+2003240101;24/03/2020;CARABANCHEL;APERTURA DE PUERTA;EL AIRE HA CERRADO LA PUERTA DEJANDOLA ENCERRADA EN LA TERRAZA;0,25
+2003240103;24/03/2020;LATINA;APERTURA PUERTA;PERSONA CAÍDA EN SU INTERIOR;2,12
+2003240104;24/03/2020;RETIRO;APERTURA DE PUERTA, PERSONA MAYOR EN EL INTERIOR NO RESPONDE, POSIBLE AFECTADA POR CORONAVIRUS;SOLICITUD DE UN FAMILIAR;0,41
+2003240133;24/03/2020;ARGANZUELA;Descontaminación instalaciones;Preventivo;0,43
+2003240218;24/03/2020;MONCLOA;Limpieza y desinfección de Residencia de mayores;Actividad agendada Covid19;2,26
+2003240229;24/03/2020;ARGANZUELA;Descontaminación y desinfección de zonas comunes de una residencia.;Actividad programada Covid19, desinfección;2,13
+2003240306;24/03/2020;MONCLOA;Descontaminación intervinientes Samur;Actividad agendada COVID 19.;10,07
+2003240320;24/03/2020;RETIRO;PETICION DE SOCORRO EN EL INTERIOR DE UNA VIVIENDA. Apertura de puerta;PERSONA MAREADA EN CUARENTENA POR COVID 19;0,48
+2003240323;24/03/2020;CIUDAD LINEAL;Apertura de puerta.;A petición de Policía Nacional.;1,17
+2003250060;25/03/2020;CIUDAD LINEAL;APERTURA PUERTA.;PERSONA CAIDA EN EL INTERIOR;1,01
+2003250065;25/03/2020;CIUDAD LINEAL;APERTURA DE PUERTA;PERSONA CAIDA EN SU INTERIOR;1,34
+2003250074;25/03/2020;MONCLOA;Colaboración descontaminación Samur-PC - Bomberos;Actividad programada Covid-19;8,26
+2003250080;25/03/2020;FUENCARRAL;Descontaminación de un patrulla de PM;Vehículo contaminado con Covid19;0,14
+2003250091;25/03/2020;MONCLOA;Desinfección de una Residencia de mayores;Actividad programada Covid-19;2,3
+2003250099;25/03/2020;HORTALEZA;Desinfección de Residencia de mayores Azaleas (Lorena);Servicios de descontaminación relacionados con COVID19;1,16
+2003250136;25/03/2020;TETUAN;Desinfección de de una base de UID de PM;Servicios de desinfección de infraestructuras de servicios esenciales municipales por crisis COVID;0,48
+2003250159;25/03/2020;CHAMARTIN;Apertura de puerta y acceso avivienda con un código 6 en interior;Se desconoce;0,49
+2003250166;25/03/2020;TETUAN;APERTURA DE PUERTA.;PERSONA QUE NO RESPONDE A LAS LLAMADAS DESDE HACE TIEMPO.;0,39
+2003250184;25/03/2020;HORTALEZA;Desinfección de base IUD de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID;0,47
+2003250197;25/03/2020;CARABANCHEL;Limpieza y desinfección de Residencia Orpea Madrid Buenavista (J. Manuel);Servicio de descontaminación por COVID19;1,21
+2003250204;25/03/2020;MONCLOA;Desinfeccion de una base UID de PM;Servicios de desinfección de infraestructuras de servicios esenciales municipales por crisis COVID;0,37
+2003250214;25/03/2020;SAN BLAS;Desinfección de un parque del Cuerpo de Bomberos;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por COVID;0,41
+2003250220;25/03/2020;TETUAN;APERTURA VIVIENDA;DESCONOCIDO;1,2
+2003250226;25/03/2020;SALAMANCA;Desinfección de instalaciones del Cuerpo de Bomberos;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por COVID;1,24
+2003250254;25/03/2020;MONCLOA;PERSONA CAIDA EN LAS INMEDIACIONES DEL RIO MANZANARES EN LA DIRECCION INDICADA;SE DESCONOCE;1,24
+2003250260;25/03/2020;MONCLOA;Persona caida en vivienda. Apertura de puerta;Se desconoce;0,17
+2003250266;25/03/2020;CENTRO;Apertura de una puerta a petición de SAMUR;Ayuda a enfermo Positivo COVID 19;0,43
+2003250269;25/03/2020;MORATALAZ;Apertura de puerta;Persona caída en el interior de su vivienda;1,51
+2003250277;25/03/2020;CARABANCHEL;Persona que no responde. Apertura de puerta;Estaba dormida;0,2
+2003250282;25/03/2020;CENTRO;INTERVENCIÓN SIN ACTUACIÓN. Apertura de puerta;PERSONA CAIDA EN SU DOMICILIO;0,23
+2003250285;25/03/2020;SALAMANCA;APERTURA DE PUERTA CON POSIBLE COVID19;PERSONA CAIDA EN INTERIOR.;1,14
+2003250297;25/03/2020;ARGANZUELA;APERTURA DE PUERTA.;SE DESCONOCE.;0,43
+2003260062;26/03/2020;FUENCARRAL;Apertura de puerta;Desconocido;0,48
+2003260079;26/03/2020;BARAJAS;RETEN IFEMA;;24,08
+2003260088;26/03/2020;ARGANZUELA;Desinfección y tratamiento de vehículo policial.;Traslado de personas positivas en Covid 19;0,2
+2003260089;26/03/2020;CHAMARTIN;Tratamiento de desinfección en Residencia de Mayores Ave María.;Tratamiento para desinfección por Covid19;0,51
+2003260107;26/03/2020;HORTALEZA;Tratamiento y desinfección de Residencia de mayores Miraflores.;Tratamiento preventivo por Covid 19.;1,32
+2003260135;26/03/2020;MONCLOA;Tratamiento y desinfección de instalaciones de Policia Municipal.;Tratamiento preventivopor Covid 19.;0,38
+2003260140;26/03/2020;USERA;COLABORAR CON SUMMA.MOVILIZAR OBESO;DESCONOCIDO;0,57
+2003260172;26/03/2020;LATINA;Tratamiento de desinfección e higienización de dependencias de policía Municipal.;Tratamiento preventivo por Covid 19.;1,58
+2003260206;26/03/2020;CHAMARTIN;Segunda visita del día para limpieza y desinfección de habitaciones interiores en una residencia geriátrica.;Intervención programada.;0,54
+2003260207;26/03/2020;HORTALEZA;Visita de reconocimiento a una Residencia de Mayores, en la que se ha intervenido anteriormente.;Desinfección preventiva por Covid 19.;0,26
+2003260216;26/03/2020;ARGANZUELA;Persona que no responde en vivienda. Apertura de puerta;Se desconoce;2,22
+2003260217;26/03/2020;VILLA DE VALLECAS;PERSONA CON COVID19 CONFIRMADO POR SUMMA. Apertura de puerta;SE DESCONOCE;0,22
+2003260236;26/03/2020;CHAMARTIN;persona que no contesta en el interior de su vivienda. Apertura de puerta;Fallecida;2,03
+2003270051;27/03/2020;CHAMARTIN;DESCONTAMINACIÓN DE RESIDENCIA DE ANCIANOS EL VISO;INFECCIÓN DE COVID19;3,17
+2003270056;27/03/2020;HORTALEZA;DESCONTAMINACIÓN DE RESIDENCIA DE ANCIANOS CASER;INFECCION DE COVID 19;2,04
+2003270065;27/03/2020;FUENCARRAL;Persona Obesa, posiblemente contagiada con covid 19, que debe ser trasladado al hospital, por prescripción médica.;Patología.;1,18
+2003270081;27/03/2020;HORTALEZA;Persona mayor que no responde a las llamadas de teléfono de su hija. Apertura de puerta;Se desconoce.;1,21
+2003270114;27/03/2020;SALAMANCA;DESCONTAMINACIÓN DE RESIDENCIA FAUSTA DE ELORZ;COVID 19;1,2
+2003270149;27/03/2020;CHAMARTIN;Persona mayor que no contesta y no abre la puerta del domicilio. Apertura de puerta;Se desconoce;0,52
+2003270166;27/03/2020;ARGANZUELA;DESCONTAMINACION DE RESIDENCIA DE ANCIANOS AMAVIR;COVID19;3,34
+2003270202;27/03/2020;MONCLOA;Apertura de puerta persona de avanzada edad que nos responde.;Enfermera de centro de salud avisa a bomberos por no respuesta de esta persona.;1,03
+2003270239;27/03/2020;FUENCARRAL;APERTURA DE PUERTA;POSIBLE CASO COVID 19;0,31
+2003280021;28/03/2020;CARABANCHEL;Persona caída en interior de vivienda. Apertura de puerta;Los vecinos escuchan pedir ayuda;1,2
+2003280049;28/03/2020;BARAJAS;RETEN IFEMA;Agenda de actividades COVID 19;23,3
+2003280051;28/03/2020;MONCLOA;Descontaminacion y desinfeccion de intervinientes de Samur;Actividad agendada COVID 19;9,28
+2003280053;28/03/2020;CENTRO;Descontaminacion y desinfeccion instalaciones municipales.;Agenda de actividades COVID 19;2,35
+2003280056;28/03/2020;ARGANZUELA;DECONTAMINACION DE RESIDENCIA DE ANCIANOS AMAVIR;COVID19;3,57
+2003280070;28/03/2020;CENTRO;APERTURA DE PUERTA;PERSONA CAIDA EN SU PROPIA VIVIENDA POSIBLE COVID 19;0,24
+2003280076;28/03/2020;FUENCARRAL;Apertura de puerta positivo en COVID19.;Desconocido.;1,07
+2003280094;28/03/2020;CARABANCHEL;Descontaminacion y desinfeccion de dependencia de la emisora de la instalacion.;Actividad agendada COVID 19;0,01
+2003280116;28/03/2020;CIUDAD LINEAL;Apertura de puerta,facilitar acceso a médico de SAMUR que certifica fallecimiento;Se desconoce;0,54
+2003280119;28/03/2020;CIUDAD LINEAL;DESCONTAMINACION DE CENTRO OCUPACIONAL JUAN DE AUSTRIA;COVID19;2,52
+2003280121;28/03/2020;CIUDAD LINEAL;Descontaminacion y desinfeccion.;Actividad agendada COVID 19;0,19
+2003280122;28/03/2020;FUENCARRAL;APERTURA DE PUERTA;MUJER MAYOR CAÍDA EN DOMICILIO;0,36
+2003280130;28/03/2020;LATINA;Descontaminacion y desinfeccion del Hospital;Actividad agendada COVID 19;2,12
+2003280138;28/03/2020;SALAMANCA;APERTURA DE PUERTA;FALLECIDO;0,33
+2003290025;29/03/2020;SALAMANCA;APERTURA DE PUERTA A SOLICITUD DE FAMILIAR PRESENTE EN EL LUGAR;SE DESCONOCE;0,3
+2003290049;29/03/2020;ARGANZUELA;Descontaminación de instalaciones de PM (Casa del Reloj);Actividad programada Covid-19;1,2
+2003290050;29/03/2020;SALAMANCA;Descontaminación de habitaciones de una residencia de ancianos, posible contaminación por Covid 19;Actividad Programada Covid 19;0,15
+2003290055;29/03/2020;MONCLOA;Colaboracion descontaminacion SAMUR PC, Bomberos.;Actividad programada COVID 19;7,4
+2003290056;29/03/2020;VILLAVERDE;Descontaminación de instalaciones de PM. Comisaría de PM;Actividad programada Covid-19;1,36
+2003290057;29/03/2020;CENTRO;Apertura de puerta con persona caída en su interior.;Se desconoce.;3,11
+2003290071;29/03/2020;CARABANCHEL;Descontaminación de Residencia de ancianos.;Grupo DECO. Actividad planificada.;0,59
+2003290084;29/03/2020;ARGANZUELA;Desinfección de una Residencia de personas mayores;Actividad programada Covid 19;1,22
+2003290109;29/03/2020;ARGANZUELA;Apertura de puerta con persona caída en el interior;Se desconoce;1,33
+2003290116;29/03/2020;MONCLOA;Descontaminación de distintas dependencias de una residencia de personas mayores;Actividad programada Covid-19;3,07
+2003290135;29/03/2020;SALAMANCA;Descontaminación de una residencia de ancianos.;Grupo DECO. Actividad planificada.;1,46
+2003290164;29/03/2020;HORTALEZA;Persona caída en su domicilio. Apertura de Puerta;Avanzada edad;1,36
+2003290171;29/03/2020;SAN BLAS;APERTURA DE PUERTA.;SE DESCONOCE.;1,2
+2003290202;29/03/2020;TETUAN;Persona de avanzada edad caída en domicilio. Apertura de puerta.;Se desconoce.;2,05
+2003300030;30/03/2020;ARGANZUELA;COLABORACION EJECUCION DE INSTALACIONES;PETICION DE RECURSOS HOSPITAL IFEMA;5,14
+2003300034;30/03/2020;CENTRO;Descontaminación base de SAMUR;Desinfección;10,19
+2003300035;30/03/2020;SAN BLAS;Mujer mayor pide ayuda dentro de la vivienda. Apertura de puerta;Posibles sintomas del Covid 19;1,21
+2003300038;30/03/2020;CENTRO;Reten Ifema;Se desconoce;23,23
+2003300040;30/03/2020;HORTALEZA;Descontaminación de Zonas comunes de todo el edificio;Actividad Programada Covid 19;6,13
+2003300060;30/03/2020;RETIRO;Apertura de puerta;Los familiares no localizan al propietario desde hace un día y medio;0,54
+2003300064;30/03/2020;TETUAN;descontaminación  residencia;Actividad programada Covid19, desinfección;7,17
+2003300139;30/03/2020;ARGANZUELA;Apertura de puerta con posible COVID19;Llamada de un familiar diciendo que no responde.;1,06
+2003300174;30/03/2020;RETIRO;Se recibe llamada a CC.CC informando que una persona tiene intención de precipitarse desde su vivienda.;Al parecer podría sufrir fuerte depresion,ademas de otras patologías.;0,52
+2003300180;30/03/2020;CHAMBERI;PERSONA CAIDA EN INTERIOR DE VIVIENDA POSITIVO COVID 19. Apertura de puerta;SE DESCONOCE;0,26
+2003310041;31/03/2020;MONCLOA;Prestación de servicios de descontaminación en Base 0 Samur;Actividad planificada Covid19;10,38
+2003310058;31/03/2020;TETUAN;Desinfección y ayuda de traslado a pacientes con Covid19;Preventivo;4,15
+2003310105;31/03/2020;PUENTE VALLECAS;Apertura de puerta;Aviso de un amigo;0,4
+2003310161;31/03/2020;MONCLOA;Desinfección en instalaciones de residencia Casasolar.;Preventivo.;3,33
+2003310242;31/03/2020;RETIRO;PERSONA QUE NO RESPONDE A SOLICITUD DE TELEASISTENCIA. Apertura de puerta;PERSONA QUE NO RESPONDE.;0,44
+2004010049;01/04/2020;ARGANZUELA;RETEN IFEMA;GUARDIA 24 H EN BASE RETEN IFEMA;24,36
+2004010054;01/04/2020;HORTALEZA;DESCONTAMINACION DE RESIDENCIA LOS ROBLES;COVID19;1,31
+2004010076;01/04/2020;ARGANZUELA;Descontaminacion y desinfeccion de Residencia de ancianos.;Actividad agendada COVID 16;3
+2004010077;01/04/2020;VILLA DE VALLECAS;Desinfección de instalaciones de PM.;Al parecer varios compañeros de PM han dado positivo en coronavirus.;3,17
+2004010140;01/04/2020;CIUDAD LINEAL;PERSONA MAYOR CON PROBLEMAS PARA MOVERSE, SIENDO POSITIVA EN CORONAVIRUS. Apertura de puerta;NO PODER LEVANTARSE DEL RETRETE.;0,23
+2004010147;01/04/2020;ARGANZUELA;Apertura de puerta;persona caída en interior;0,27
+2004010152;01/04/2020;MONCLOA;DESCONTAMINACION SANITARIOS BASE 0 SAMUR;Actividad planificada en agenda covid 19;11,27
+2004010160;01/04/2020;CHAMARTIN;Descontamianacion dependencias municipales de policia municipal;Solicita el servicio el intendente R.Blas Gil de Mingo;3,14
+2004010178;01/04/2020;ARGANZUELA;Descontaminacion y desinfeccion de Residencia mayores.;Actividad agendada COVID 19;2,42
+2004010183;01/04/2020;RETIRO;PERSONAS EN VIVIENDA NO RESPONDEN. Apertura de puerta;SE DESCONOCE;1,24
+2004010229;01/04/2020;USERA;Apertura de puerta de domicilio en cuyo interior hay una persona que no responde;Se desconoce;1,09
+2004010301;01/04/2020;MORATALAZ;PERSONA CAÍDA EN EL INTERIOR DE VIVIENDA. Apertura de puerta;SE DESCONOCE;1,39
+2004020036;02/04/2020;CENTRO;Desinfección de una base de SAMUR PC (Base0);Servicios de descontaminación de infraestructuras de servicios esenciales municipales;9,59
+2004020039;02/04/2020;CENTRO;Desinfeccion de RESIDENCIA AMAVIR;Servicios de descontaminación de infraestructuras de servicios residenciales por crisis COVID;4,32
+2004020040;02/04/2020;FUERA TERMINO MUNICIPAL;Desinfección de Residencia FUNDACION ADFYPSE LEGANES;Servicios de descontaminación de infraestructuras de servicios residenciales de mayores por crisis COVID;4,27
+2004020107;02/04/2020;CIUDAD LINEAL;Desinfeccion de una base de UID de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID;1,24
+2004020108;02/04/2020;CENTRO;Desinfección de una base de UID de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID;2,28
+2004020134;02/04/2020;FUERA TERMINO MUNICIPAL;Desinfección en habitación de vivienda tutelada;Servicios de descontaminación de infraestructuras de servicios residenciales por crisis COVID;0,31
+2004030035;03/04/2020;BARAJAS;RETÉN IFEMA;RETÉN;24,1
+2004030042;03/04/2020;USERA;Desinfección de residencia San Vicente (Fundacion ANDE);Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,13
+2004030043;03/04/2020;SAN BLAS;Desinfección y asesoramiento en Centro de discapacitados Psíquicos CEPRI;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,05
+2004030045;03/04/2020;MONCLOA;Descontaminación dependencias municipales;Preventivo;9,05
+2004030050;03/04/2020;SALAMANCA;Descontaminación Parque 2º;Preventivo;1,15
+2004030054;03/04/2020;CIUDAD LINEAL;APERTURA DE PUERTA A PETICIÓN DE POLICÍA NACIONAL CON PERSONA CAÍDA EN SU INTERIOR;SE DESCONOCE;1,28
+2004030059;03/04/2020;RETIRO;Apertura de puerta por persona con Covid 19 que no responde;Fallecido;1,12
+2004030078;03/04/2020;FUENCARRAL;DESINFECCCIÓN DE CENTRO DE ACOGIDA CARMEN SACRISTAN;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,02
+2004030086;03/04/2020;MONCLOA;Descontaminación dependencias municipales;Preventivo;0,22
+2004030105;03/04/2020;RETIRO;Persona Caida en el interior de su vivienda. Apertura de puerta;desconocido;1,51
+2004030124;03/04/2020;CIUDAD LINEAL;Descontaminación de vivienda por COVID 19;Descontaminación por fallecimiento.;0,3
+2004030133;03/04/2020;HORTALEZA;Descontaminación de residencia por COVID 19;INTERVENCIONES PROGRAMADAS;1,5
+2004040016;04/04/2020;FUENCARRAL;Apertura de puerta.;Persona fallecida caída detrás de la puerta imposibilitando la apertura de la misma.;0,16
+2004040028;04/04/2020;MONCLOA;Descontaminación de personal SAMUR en BASE 0;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID;10,19
+2004040034;04/04/2020;ARGANZUELA;Desinfección residencia de mayores nuestra señora del Carmen;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;8,46
+2004040091;04/04/2020;SALAMANCA;Apertura de puerta;Persona que no responde.;0,5
+2004040105;04/04/2020;PUENTE VALLECAS;APERTURA DE PUERTA.;CÓDIGO 6.;0,38
+2004040113;04/04/2020;CENTRO;Desinfección de una base de UID de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID;1,36
+2004050051;05/04/2020;CENTRO;RETEN HOSPITAL DE IFEMA;RETEN PREVISTO;23,52
+2004050052;05/04/2020;CENTRO;DESCONTAMINACIÓN DE INTERVINIENTES EN BASE 0 DE SAMUR;CRISIS COVID 19;9,07
+2004050054;05/04/2020;CENTRO;Desinfección y descontaminación de RESIDENCIA HERMANITAS ANCIANOS DESAMPARADOS;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;8,08
+2004050056;05/04/2020;CENTRO;Desinfección de una RESIDENCIA NUESTRA SEÑORA DEL CARMEN;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;0,37
+2004050142;05/04/2020;FUERA TERMINO MUNICIPAL;Desinfección y descontaminación de RESIDENCIA NUESTRA SEÑORA DEL CARMEN;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;5,1
+2004060044;06/04/2020;MONCLOA;DESCONTAMINACIÓNJ EN BASE 0 SAMUR;COVID 19;10,25
+2004060057;06/04/2020;MONCLOA;DESCONTAMINACIÓN DE COMISARIA DE POLICÍA MUNICIPAL;COVID19;0,56
+2004060059;06/04/2020;ARGANZUELA;Descontaminación de instalaciones de Policía Municipal;COVID19;0,57
+2004060068;06/04/2020;CHAMARTIN;Desinfección y descontaminación de distintas dependencias de una residencia de ancianos;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;6,56
+2004060098;06/04/2020;SALAMANCA;DESCONTAMINACIÓN DE Residencia Mi Casita Hermano de los Pobres;COVID 19;2,07
+2004060128;06/04/2020;PUENTE VALLECAS;persona caida en el interior de su vivienda. Apertura de puerta.;Se intenta levantar y se cae;0,28
+2004060148;06/04/2020;HORTALEZA;Descontaminación de 12 habitaciones y tres aseos por positivo en COVID 19 en la residencia de mayores MANOTERAS.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,15
+2004060172;06/04/2020;CHAMARTIN;RETIRADA DE ENSERES CONTAMINADOS POR COVID 19;FALLECIMIENTO DEL INQUILINO DEL PISO DONDE SE HALLABAN LOS ENSERRES;0,57
+2004060175;06/04/2020;ARGANZUELA;DESCONTAMINACIÓN RESIDENCIA Y CENTRO DE DÍA USERA;COVID 19;0,42
+2004060214;06/04/2020;PUENTE VALLECAS;Apertura de puerta.;Persona mayor en el interior de la vivienda que no responde.;0,49
+2004070017;07/04/2020;RETIRO;Persona infectada por COVIC 19 encerrada en la habitación del hotel medicalizado.;Transtorno psicológico.;0,45
+2004070020;07/04/2020;LATINA;APERTURA DE PUERTA;CAIDA PERSONA MAYOR;0,46
+2004070044;07/04/2020;BARAJAS;Retén 24h en el hospital de campaña de Ifema;Actividad programada COVID19;23,19
+2004070054;07/04/2020;SALAMANCA;desinfección de residencias.;Actividad preventiva COVID19;0,06
+2004070061;07/04/2020;USERA;DESINFECCION DE RESIDENCIA DE LA COMUNIDAD DE MADRID, JUNTO A PISOS TUTELADOS ANEXOS A LA PROPIA RESIDENCIA;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,57
+2004070162;07/04/2020;MONCLOA;Descontaminación de comisaría de policia.;Actividad preventiva COVID 19;0,34
+2004070183;07/04/2020;BARAJAS;Descontaminación de vehículo por posible positivo COVID 19.;Desconocido.;0,18
+2004070199;07/04/2020;CHAMBERI;Descontaminación de residencias;Actividad preventiva por COVID 19;1,27
+2004070214;07/04/2020;BARAJAS;Descontaminación de comisarías de policía municipal.;Actividad preventiva COVID 19;0,15
+2004070215;07/04/2020;VICALVARO;Desinfección residencia mayores;Desinfección por Covid 19;4,24
+2004080049;08/04/2020;LATINA;Descontaminación Residencia Mayores;Posible Covid19. Se anula la intervención;0,05
+2004080050;08/04/2020;MORATALAZ;Descontaminación de RESIDENCIA AMAVIR VALDEBERNARDO;Posible COVID19;5,35
+2004080057;08/04/2020;CENTRO;Reconocimientos pesados. * Nuestra Señora de Montserrat, C/ San Bernardo 79. * Congregación de CARMELITAS, C/ General Ricardos 248. * Convento Siervas De María, Pza Chamberí 7.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;6,19
+2004080066;08/04/2020;MONCLOA;Descontaminación en Base 0 Samur;Covid19;11,24
+2004080087;08/04/2020;SALAMANCA;APERTURA DE PUERTA;PERSONA EN MAL ESTADO;0,45
+2004080090;08/04/2020;CENTRO;Descontaminación del parque 6;Posible COVID19;1,07
+2004080108;08/04/2020;CENTRO;Descontaminación de instalaciones de Policía Municipal;Posible COVID19;1,25
+2004080115;08/04/2020;CENTRO;Desinfección de instalaciones de Policía Municipal Unidad de policía Municipal de Moratalaz;Posible COVID19;1,53
+2004080136;08/04/2020;ARGANZUELA;APERTUA DE PUERTA;PERSONA QUE NO RESPONDE, POSIBLE CORONAVIRUS;0,59
+2004080142;08/04/2020;HORTALEZA;Desinfección de habitación y espacios puntuales en residencia de ancianos Residencia Asistida MANOTERAS;Posible COVID19;0,56
+2004080148;08/04/2020;CENTRO;Desinfección de habitaciones y zonas puntuales en residencia de mayores Plata y Castañar;Posible COVID19;2,15
+2004090033;09/04/2020;MONCLOA;Descontaminación y de apoyo en el desvestido del personal operativo de SAMUR;Actividad preventiva por COVID 19;10,2
+2004090041;09/04/2020;BARAJAS;Acciones preventivas y de revisión sin más novedad;Retén preventivo en instalaciones hospitalarias provisionales de IFEMA;26,12
+2004090043;09/04/2020;CHAMBERI;Continuar trabajos de desinfección en instalaciones de residencia de mayores.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,3
+2004090044;09/04/2020;VILLAVERDE;Continuar trabajos de Desinfección en Residencia de Mayores;Preventivo;4,2
+2004090072;09/04/2020;CENTRO;Apertura de puerta;Persona en el interior de la vivienda .;1,02
+2004090108;09/04/2020;ARGANZUELA;Desinfección de instalaciones de Policía Municipal ( Unidad de apoyo a la seguridad).;Preventivo.;0
+2004090114;09/04/2020;HORTALEZA;Valoración general de residencia, con sectorización y descontaminación de zonas.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,53
+2004090177;09/04/2020;PUENTE VALLECAS;Ayuda a personal de Suma para traslado de la citada mujer.;Obesidad mórbida (240 Kg).;1,16
+2004100033;10/04/2020;ARGANZUELA;ALARMA DE INCENDIOS;ALARMA DE INCENDIOS SE DISPARA;0,39
+2004100042;10/04/2020;RETIRO;RECONOCIMIENTOS PESADOS DE VARIAS RESIDENCIAS. RECOP;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;5
+2004100043;10/04/2020;CENTRO;Desinfección residencia de mayores por COVID19;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,39
+2004100048;10/04/2020;VILLAVERDE;Desinfección residencia;Covid19;2,04
+2004100087;10/04/2020;MONCLOA;Desinfección de instalaciones;Preventivo;6,51
+2004100088;10/04/2020;HORTALEZA;Desinfección residencia;Covid19;1,45
+2004100090;10/04/2020;CHAMARTIN;Desinfección residencia de mayores por Covid19;Por indicación de UME;3,15
+2004100114;10/04/2020;PUENTE VALLECAS;Desinfección comisaría por Covid19;por indicación de Policía Municipal;0,33
+2004100130;10/04/2020;ARGANZUELA;Desinfección comisaría por COVID19;Por indicación de Policía Municipal;2,43
+2004100145;10/04/2020;TETUAN;Desinfección residencia de Mayores por COVID19;Por indicación de Policía Municipal;2,42
+2004100164;10/04/2020;FUENCARRAL;Residencia menores (Nupa);Covid19;0,54
+2004110009;11/04/2020;SALAMANCA;Apertura de puerta por persona caida en su interior.;Se desconoce.;1,41
+2004110025;11/04/2020;MORATALAZ;APERTURA DE PUERTA (PERSONA CAIDA EN BAÑO PIDE AUXILIUO , POSIBLE COVID);DESCONOCIDO;1,27
+2004110035;11/04/2020;MONCLOA;Descontaminación de sanitarios en base 0 samur;Ambulancias y personal de samur en contacto con positivos de covid 19;10,2
+2004110036;11/04/2020;CENTRO;Retén Ifema;Retén ifema;24,56
+2004110045;11/04/2020;CENTRO;Reconocimientos pesados, junto a SAMUR y Políticas sociales de la CM, de dos residencias afectadas por COVID. C2742. RESIDENCIA DOMUS VI MADRID SUR (calle Javier de Miguel 42) C0203. RESIDENCIA SAN FRANCISCO DE PAULA (calle Valdebernardo 29);Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;7,13
+2004110047;11/04/2020;CENTRO;Reconocimiento Pesado de Residencia de Discapacitados. (residencia Duque de Lugo) C1136;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,53
+2004110051;11/04/2020;CENTRO;Descontaminación de base UID de Usera y Distritos 3 perteneciente a Policía Municipal;Servicios de descontaminación de infraestructuras municipales esenciales por crisis del covid;3,23
+2004110052;11/04/2020;ARGANZUELA;Desinfección de Residencia de Mayores por COVID19. RESIDENCIA SANTA MARÍA DEL ESPEJO;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,06
+2004110089;11/04/2020;CENTRO;Reconocimiento pesado de residencia de ancianos (religiosos);Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,3
+2004110133;11/04/2020;MONCLOA;Descontaminación residencia geriátrica y reubicación de internos PINAR DE ARAVACA;Solicitud a través de delegación de gobierno tras 17 casos positivos;5,23
+2004110138;11/04/2020;CENTRO;Desinfección de residencia. Tras RECOP. RESIDENCIA DOMUSVI MADRID SUR;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;7,12
+2004110174;11/04/2020;CHAMBERI;APERTURA DE PUERTA;PERSONA QUE NO CONTESTA EN EL INTERIOR;0,23
+2004110260;11/04/2020;CHAMBERI;AYUDA EN TRASLADO DE PERSONA CON OBESIDAD MÓRBIDA;SOLICITUD AYUDA DE SANITARIOS;1,3
+2004120036;12/04/2020;MONCLOA;Colaboración descontaminación personal Samur-PC Bomberos;Actividad programada Covid-19;10,44
+2004120044;12/04/2020;SAN BLAS;Evaluación pesada, junto a SAMUR y Políticas sociales de la CM, de la residencia de discapacitados psíquicos CEPRI;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,19
+2004120047;12/04/2020;MONCLOA;Desinfección de zonas comunes, habitaciones de residencia y zona ocupacional.;Emergencia de COVID-19;2,29
+2004120050;12/04/2020;SALAMANCA;Descontaminación de las instalaciones de PM;Covid 19;1,07
+2004120054;12/04/2020;HORTALEZA;DESCONTAMINACION DE RESIDENCIA BETESDA;INFECCION DE COVID19;2,46
+2004120072;12/04/2020;MORATALAZ;Evaluación de Residencia de ancianos (San Francisco de Paula) para descontaminación;Posible COVID19;1,5
+2004120076;12/04/2020;CHAMARTIN;DESCONTAMINAR Y DESINFECCIÓN RESIDENCIA COCEMFE;COVID19;2,54
+2004120103;12/04/2020;MORATALAZ;DESCONTAMINACION Y DESINFECCION RESIDENCIA SAN FRANCISCO DE PAULA;COVID19;3,52
+2004120112;12/04/2020;HORTALEZA;DESCONTAMINACION Y DESINFECCION DE RESIDENCIA MANOTERAS;COVID19;3,22
+2004130037;13/04/2020;BARAJAS;Reten IFEMA;Actividad programada COVID;24,41
+2004130042;13/04/2020;CHAMBERI;Descontaminación y asesoramiento Residencia Calasanz de Escolapios.;Actividad programada por Delegación de Gobierno, UME y Jefatura del Cuerpo.;4,44
+2004130044;13/04/2020;HORTALEZA;DESCONTAMINACION DE RESIDENCIA BETESDA;COVID19;9,59
+2004130110;13/04/2020;MONCLOA;Descontaminación Comisaría de Policía de El Pardo.;Actividad programada Unidad DECO.;1,3
+2004130130;13/04/2020;CENTRO;Descontaminación Comisaría Distrito Centro.;Actividad programada Unidad Descontaminación.;3,34
+2004140028;14/04/2020;ARGANZUELA;Ayuda descontaminación Base 0 SAMUR.;Actividad programada Unidad DECO.;10,06
+2004140037;14/04/2020;SAN BLAS;Evaluación pesada de residencia de personas mayores Adolfo Suarez.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,43
+2004140038;14/04/2020;CARABANCHEL;Desinfección Residencia.;Actividad programada por COVID 19.;3,16
+2004140040;14/04/2020;MONCLOA;desinfección residencia.;Actividad programada por COVID 19;3,29
+2004140041;14/04/2020;CARABANCHEL;Intervencion para desinfectar residencia de salesianos;Covid19;6,17
+2004140106;14/04/2020;PUENTE VALLECAS;Desinfeccion de hogares tutelados;Covid19;
+2004140134;14/04/2020;SAN BLAS;Descontaminación de coche patrulla;Efectivo de Policía Municipal con test positivo por Covid;0,23
+2004140137;14/04/2020;BARAJAS;Desinfeccion de residencia;Covid 19;4,02
+2004140153;14/04/2020;SAN BLAS;Desinfeccion de residencia de ancianos;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,54
+2004140157;14/04/2020;VILLAVERDE;Aperturta de puerta con posible codigo 6.;Se desconoce.;2,18
+2004140199;14/04/2020;CIUDAD LINEAL;APERTURA DE PUERTA;FUERTE OLOR A DESCOMPOSICIÓN DE MATERIA ORGÁNICA;1,02
+2004140207;14/04/2020;MORATALAZ;Desinfección y descontaminación de unas instalaciones de PM: Unidad de Educación Vial;Covid 19;1,23
+2004140234;14/04/2020;CHAMARTIN;Desinfección y descontaminación de varias dependencias de una UID;Covid 19;0,38
+2004150041;15/04/2020;MONCLOA;DESCONTAMINACIÓN Y DESVESTIDO DE INTERVINIENTES DE SAMUR;COVID19;10,35
+2004150045;15/04/2020;BARAJAS;Base Retén IFEMA;Plan de autoprotección IFEMA, Hospital de Campaña.;24,14
+2004150061;15/04/2020;CHAMARTIN;Descontaminacion y desinfeccion de estancias del Hospital.;Servicios de descontaminación de infraestructuras de servicios esenciales por crisis COVID.;5,03
+2004150066;15/04/2020;MONCLOA;Evaluación centro residencial Santa María del Parral;Posible Covid19;1,09
+2004150067;15/04/2020;SALAMANCA;Descontaminacion y desinfeccion de instalaciones.;Actividad agendada COVID 19;1,3
+2004150082;15/04/2020;CIUDAD LINEAL;Reconocimiento y Evaluación pesada, junto a SAMUR y Políticas sociales de la CM, de residencia Centro Ocupacional Angel de la Guarda;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;
+2004150092;15/04/2020;VICALVARO;Descontaminacion y desinfeccion de instalaciones de Policia Municipal.;Actividad agendada COVID 19;1,27
+2004150140;15/04/2020;CIUDAD LINEAL;Descontaminación del Centro Ocupacional Ángel de la Guarda;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,47
+2004150158;15/04/2020;FUENCARRAL;Descontaminacion y desinfeccion de instalaciones en unidad de Policia Municipal UID Fuencarral;Acctividad agendada COVID 19;0,54
+2004150170;15/04/2020;FUENCARRAL;Descontaminación centro de Acción Social San Rafael;Posible Covid19;1,31
+2004150198;15/04/2020;FUENCARRAL;Descontaminacion y desinfeccion del Centro de Accion Social.;Actividad Agendada COVID 19;0
+2004150221;15/04/2020;ARGANZUELA;Descontaminacion y desinfeccion de estancias en Residencia San Vicente, Fundación Ande;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,06
+2004160026;16/04/2020;CARABANCHEL;MALESTAR Y DOLOR DE CABEZA DE LOS PROPIETARIOS;POSIBLE CONTAGIO DE COVIC19.;0,19
+2004160036;16/04/2020;ARGANZUELA;Descontaminación dependencias ;Preventivo;7,2
+2004160048;16/04/2020;CIUDAD LINEAL;Evaluación pesada de residencia en Centro Ocupacional Ciudad Lineal (covid19);Covid19;1,14
+2004160053;16/04/2020;CHAMBERI;Descontaminacion por COVID 19;Petición de Responsables de Comisaria;4,19
+2004160056;16/04/2020;PUENTE VALLECAS;Desinfección generalizada de una Comisaría;Solicitud Responsable Comisaria;1,55
+2004160061;16/04/2020;CARABANCHEL;Desinfección COVID19;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,11
+2004160076;16/04/2020;CHAMARTIN;Evaluación residencia de mayores San Juan de Dios (covid19);Covid19;2,01
+2004160131;16/04/2020;FUENCARRAL;Desinfección por COVID19;Programado;1,04
+2004160132;16/04/2020;CHAMARTIN;Desinfección por COVID19;Según programación del Servicio;0,4
+2004160135;16/04/2020;MONCLOA;Descontaminación por COVID19;Programada;1,5
+2004160155;16/04/2020;FUENCARRAL;Apertura de puerta. Posible diógenes y caso confirmado por Covid19;Se desconoce;1,31
+2004160166;16/04/2020;CIUDAD LINEAL;Desinfección COVID19;Programada según visita por la mañana;1,5
+2004160175;16/04/2020;FUENCARRAL;Descontaminación por COVID19;Programada;2,02
+2004160176;16/04/2020;MONCLOA;Desinfección COVID19 pendiente del día anterior;programada;0,22
+2004170024;17/04/2020;FUENCARRAL;Precipitado desde quinto piso a patio interior del Hospital de La Paz.;Desconocido.;0,23
+2004170028;17/04/2020;CENTRO;Trabajos de descontaminacion en Base 0 Samur;COVID19;11,1
+2004170034;17/04/2020;CENTRO;RETEN IFEMA.;COVID19;25,14
+2004170041;17/04/2020;CENTRO;DESINFECCIÓN RESIDENCIA NRTA SRA MONTSERRAT;COVID19. SOLICITUD PLATERCAM;2,01
+2004170042;17/04/2020;SALAMANCA;Evaluación pesada, junto a SAMUR y Politicas sociales de la CM, de la residencia de mayores LA GUINDALERA (plantas 1 y 2) y la congregacion de Hijas de la Caridad de San Vicente de Paul (planta 3) en la Calle Pintor Moreno Carbonero 15;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;3,22
+2004170044;17/04/2020;CENTRO;Desinfección y descontaminación de zonas comunes y habitaciones de una RESIDENCIA SAN JUAN DE DIOS;Coordinación de atención a residencias dentro del plan de acción COVID PLATERCAM;10,06
+2004170049;17/04/2020;CENTRO;Desinfección Parque de Bomberos;Preventivo;3,36
+2004170064;17/04/2020;CENTRO;Apertura de puerta;Persona que no responde;1,46
+2004170084;17/04/2020;CENTRO;Desinfección RESIDENCIA ADOLFO SUAREZ;COVID 19;3,2
+2004170104;17/04/2020;PUENTE VALLECAS;Apertura de puerta.;Desconocido.;0,13
+2004170110;17/04/2020;HORTALEZA;Reconocimiento pesado Residencia Sanchinarro;COVID19;1,18
+2004170120;17/04/2020;CENTRO;DESINFECCION DE RESIDENCIA DE ANCIANOS MANOTERAS;COVID19;3,44
+2004170132;17/04/2020;CENTRO;Reconocimiento de seguimiento a convento residencia.;Intervención anterior de desinfección y reorganización.;1,36
+2004170153;17/04/2020;PUENTE VALLECAS;DESCONTAMINACION DE COCHE PATRULLA DE POLICIA MUNICIPAL;TRASLADO DE UN DETENIDO CON COVID19;0,12
+2004180040;18/04/2020;LATINA;Apoyo descontaminación BASE 0;covid19;9,58
+2004180046;18/04/2020;ARGANZUELA;Desinfección de dependencias de unidad de policía municipal.;covid19;2,15
+2004180048;18/04/2020;ARGANZUELA;Evaluacion pesada de Residncias;Planificacion del comite de crisis Residencias COVID PLATERCAM;2,18
+2004180051;18/04/2020;VILLA DE VALLECAS;Desinfección de unidad de policía municipal (Villa de Vallecas);Covid19;1,04
+2004180052;18/04/2020;ARGANZUELA;Desinfección de habitaciones en Residencia Santa Genoveva Torres Morales (Hermanas Angélicas);Covid19;4,29
+2004180073;18/04/2020;HORTALEZA;Evaluación pesada y descontaminación de Residencia Manoteras;Programación comité de crisis Residencias Covid PLATERCAM;6,22
+2004190061;19/04/2020;BARAJAS;Base Reten Ifema.;Documento nota de fecha 23.03.2020 sobre soporte Hospital de campaña en Ifema.;24,22
+2004190068;19/04/2020;ARGANZUELA;Desinfeccion de resisencia Hermanas Hospitalarias del Sagrado Corazón de Jesús CX063;Actividad programada COVID 19;6,07
+2004190076;19/04/2020;CIUDAD LINEAL;Evaluación pesada de residencia de personas mayores: Mercedarias de la Caridad.;Programación del comité de atención a residencias en el marco COVID PLATERCAM.;2,17
+2004190077;19/04/2020;MONCLOA;Evaluación pesada con Bomberos, Samur y Policía, de la residencia San Martín de Porres.;Programacion del comite de atencion a residencias en el marco COVID PLATERCAM.;2,44
+2004190149;19/04/2020;ARGANZUELA;Descontaminación residencia CX056 Hermanas Mercedarias de la Caridad;Actividad programada en agenda covid 19;0,59
+2004190166;19/04/2020;CENTRO;Descontaminación residencia adjunta al colegio religioso Santa Isabel;Actividad programada en agenda covid 19;2,38
+2004190181;19/04/2020;MONCLOA;Descontaminación residencia de personas con discapacidad intelectual: Centro residencial San Martín de Porrés;4 test positivos en covid 19;1,15
+2004190211;19/04/2020;CIUDAD LINEAL;RESCATE PERSONA MAYOR EN TERRAZA EXTERIOR. Apertura de puerta;SE DESCONOCE;0,57
+2004190225;19/04/2020;MONCLOA;Descontaminación a efectivos de Base 0 Samur;Actividad en agenda COVID 19;11,51
+2004190265;19/04/2020;TETUAN;Descontaminación UID Tetuán de Policía Municipal;Actividad programada en agenda covid 19;2,2
+2004200033;20/04/2020;CENTRO;Descontaminación Base 0 de SAMUR;Preventivo;10,35
+2004200040;20/04/2020;CENTRO;Evaluación pesada, junto a SAMUR y Politicas sociales de la CM, de residencia CADP dos de mayo en Calle Oña 1.;Programacion de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;1,42
+2004200044;20/04/2020;CENTRO;Desinfección de zonas comunes e instalaciones;Coordinación de atención a residencias en el marco COVID PLATERCAM;3,2
+2004200050;20/04/2020;ARGANZUELA;Desinfección general de instalaciones y zonas comunes de Centro de día y ocupacional;Coordinación de atención a residencias en el marco COVID PLATERCAM;3,1
+2004200085;20/04/2020;CENTRO;Desinfección de zonas comunes y especificas de residencia;Coordinación de atención a residencias en el marco COVID PLATERCAM;4,44
+2004200105;20/04/2020;CARABANCHEL;Persona caída dentro del domicilio pidiendo auxilio.;Desconocida.;1,15
+2004200116;20/04/2020;ARGANZUELA;Desinfección de centro para personas con discapacidad intelectual.;Coordinación atención a residencias COVID PLATERCAM;2,38
+2004200137;20/04/2020;ARGANZUELA;Reconocimiento y recopilación de datos para intervención mañana;Coordinación de atención a residencias en el marco COVID PLATERCAM;1,1
+2004200199;20/04/2020;CARABANCHEL;Apertura de puerta;Persona en el interior no responde;2,37
+2004210035;21/04/2020;ARGANZUELA;Reten en IFEMA;COVID19;25,12
+2004210046;21/04/2020;HORTALEZA;Descontaminación de la residencia y centro de atención a discapacitados psíquicos DOS DE MAYO;Coordinación de atención a residencias en el marco COVID PLATERCAM;5,55
+2004210049;21/04/2020;SALAMANCA;Descontaminación de las residencias LA GUINDALERA y de la congregacion de Hijas de la Caridad de San Vicente de Paul;Coordinación de atención a residencias en el marco COVID PLATERCAM;9,09
+2004210063;21/04/2020;ARGANZUELA;SALVAMENTO DE INTENTO DE SUICIDIO POR PRECIPITACIÓN;SE DESCONOCE;0,48
+2004210101;21/04/2020;PUENTE VALLECAS;Apertura de puerta por persona caída en el interior de su vivienda;Persona caída en el interior de su vivienda;1,22
+2004210147;21/04/2020;MONCLOA;Evaluación pesada, junto a SAMUR y Políticas sociales de la CM, de residencia Sagrada Familia Nueva Zelanda.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,27
+2004220040;22/04/2020;MONCLOA;DESCONTAMINACIONES EN BASE 0 DE SAMUR, COLABORACIÓN;COVID19;10,17
+2004220044;22/04/2020;USERA;APERTURA DE PUERTA DE BAÑO POR PERSONA CAIDA (POSIBLE CODIGO 6) Y QUE NO SE PUEDE ACCEDER.;DESCONOCIDO;0,11
+2004220048;22/04/2020;FUENCARRAL;Desinfección de Residencia.;Covid19;2,04
+2004220049;22/04/2020;MONCLOA;DESINFECCIÓN DE INSTALACIONES EN RESIDENCIA;Coordinación de atención a residencias en el marco COVID PLATERCAM;3,12
+2004220063;22/04/2020;MONCLOA;DESINFECCIÓN DE INSTALACIONES EN RESIDENCIA;Programa de coordinación de atención a residencias en el marco COVID PLATERCAM;6,12
+2004220083;22/04/2020;TETUAN;Evaluación ligera, tras visita de reconocimiento, de la residencia HH Hospitalarias Jesús Nazareno, en Calle Magnolias 105.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,33
+2004220093;22/04/2020;SAN BLAS;Apertura de puerta por persona que no responde.;Se desconoce;1,05
+2004220102;22/04/2020;RETIRO;TRABAJOS DE DESINFECCIÓN COMISARÍA RETIRO (UIC RETIRO);AVISO POLICIA MUNICIPAL;2,39
+2004220106;22/04/2020;CHAMBERI;Reconocimiento de residencia para seguimiento de medidas COVID19;Intervenciones precedentes de reorganización.;0,52
+2004220181;22/04/2020;TETUAN;DESINFECCIÓN INSTALACIONES RESIDENCIA;Coordinación de atención a residencias en el marco COVID PLATERCAM;2,25
+2004220201;22/04/2020;VILLA DE VALLECAS;Descontaminación vehículo PM.;Posible COVID;0,05
+2004230043;23/04/2020;CENTRO;Ayuda a descontaminación en Base 0 de SAMUR.;Actividad programada por la Unidad DECO.;10,48
+2004230044;23/04/2020;ARGANZUELA;Reten HOSPITAL IFEMA.;Se desconoce.;24,23
+2004230053;23/04/2020;CENTRO;Descontaminación parcial Hospital San Rafael.;Programa de reconocimientos e intervenciones en residencias e infraestructuras públicas afectadas, coordinada desde centro de control de crisis COVID PLATERCAM;2,26
+2004230056;23/04/2020;CENTRO;Descontaminacion y desinfeccion de estancias en residencia Jesús Nazareno y los Dolores.;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;3,56
+2004230066;23/04/2020;CENTRO;Evaluación pesada de la residencia, junto a SAMUR y políticas sociales de la CM;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,1
+2004230102;23/04/2020;LATINA;Valoración de Comisaría de Policía Municipal para posible descontaminación.;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;0,32
+2004230151;23/04/2020;FUENCARRAL;Desinfección Residencia Mirasierra.;Actividad agendada en el programa de reconocimientos e intervenciones en residencias coordinado desde centro de control de crisis COVID PLATERCAM.;4,36
+2004230153;23/04/2020;ARGANZUELA;Reconocimiento de residencia NUESTRA SEÑORA DE VALVERDE de mayores a efectos de valorar intervención por COVID19.;Actividad programada grupo Descontaminación englobada en actuaciones dentro del Platercam. residencia: NUESTRA SEÑORA DE VALVERDE ... CÓDIGO C-0599;3,1
+2004230198;23/04/2020;CARABANCHEL;Valoración de necesidad de descontaminación de la Comisaría de Policía Municipal de Carabanchel.;Actividad programada por Delegación de Gobierno.;1,01
+2004240029;24/04/2020;MONCLOA;Instalacion corredor descontaminacion en base 0 de Samur;Actividad programada grupo DECO;10,55
+2004240042;24/04/2020;CHAMARTIN;Revisión y desinfección de residencia de mayores Nuestra Señora de los Ángeles, Hospitalarias del Sagrado Corazón de Jesus, en calle Pintor Ribera 12.;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,58
+2004240045;24/04/2020;FUENCARRAL;Descontaminación pendiente de terminar de intervención previa de ayer en la residencia de mayores MIRASIERRA;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,44
+2004240049;24/04/2020;ARGANZUELA;Evaluación pesada de la residencia, junto a SAMUR y políticas sociales de la CM;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,38
+2004240067;24/04/2020;MONCLOA;Inspección de la residencia de mayores de la Fundación Sagrada Familia en calle Isidro Dompablo 10, para evaluar y programar desinfección;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,08
+2004240109;24/04/2020;LATINA;Evaluación pesada de la residencia BALLESOL LATINA, en calle Casuarina 4, junto a SAMUR.;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,46
+2004240113;24/04/2020;HORTALEZA;Reconocimiento en dependencias de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;0,39
+2004240120;24/04/2020;MONCLOA;Desinfección residencia de mayores de la Fundación Sagrada Familia en calle Isidro Dompablo 10.;Programa de reconocimientos e intervenciones en residencias e infraestructuras públicas afectadas, coordinada desde centro de control de crisis COVID PLATERCAM;2,13
+2004240128;24/04/2020;HORTALEZA;Descontaminacion de dependencias de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;1,54
+2004240139;24/04/2020;CENTRO;Desinfeccion en dependencias de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;1,11
+2004240182;24/04/2020;PUENTE VALLECAS;Pisos de planta segunda con paredes y techos mojados por agua. Llevan asi una semana.;El vecino del piso 3ºB tiene una avería en una tubería del cuarto de baño y al estar este y los familiares que viven con él afectados por covid, no encuentra fontanero que se lo quiera reparar.;0,32
+2004240250;24/04/2020;PUENTE VALLECAS;APERTURA DE PUERTA;NO LOCALIZAN LOS FAMILIARES A LA VÍCTIMA QUE ES POSITIVO EN COVID19;0,45
+2004250027;25/04/2020;MONCLOA;Colaboración con Samur PC en descontaminación del personal sanitario;Covid 19;10,4
+2004250033;25/04/2020;BARAJAS;RETEN EN IFEMA;COVID19;24,05
+2004250037;25/04/2020;CARABANCHEL;RECONOCIMIENTO PESADO JUNTO A SAMUR.;Programa de reconocimientos e intervenciones en residencias coordinado desde centro de control de crisis COVID PLATERCAM.;3,51
+2004250039;25/04/2020;ARGANZUELA;Desinfección de zonas comunes residencia de ancianos;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;8,46
+2004250042;25/04/2020;MONCLOA;Visita y valoración provisional de la residencia;Covid 19;0,02
+2004250053;25/04/2020;MORATALAZ;Desinfección de distintas zonas de una residencia de personas mayores;Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;5,57
+2004250054;25/04/2020;CENTRO;Desinfección de una base de UID de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;1,35
+2004250154;25/04/2020;ARGANZUELA;Desinfección y limpieza de distintas zonas de la residencia (zonas comunes y 3 habitaciones);Programa de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,23
+2004260040;26/04/2020;CENTRO;Ayuda en el desvestido del personal de SAMUR;;10,26
+2004260049;26/04/2020;CENTRO;Relaizar desinfección de varias zonas de la residencia;Inspección pesada previa según programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,3
+2004260051;26/04/2020;ARGANZUELA;DESINFECCION INSTALACIONES MUNICIPALES UID GRUPO ESCOLTAS Y PROTECCION GEI;SOLICITA EL SERVICIO EL SUBINSPECTOR;2,06
+2004260078;26/04/2020;CENTRO;Evaluación pesada, junto a SAMUR y Políticas sociales de la CM, de la residencia Los Nogales Reina Victoria.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3
+2004270044;27/04/2020;CIUDAD LINEAL;APERTURA DE PUERTA;PERSONA CAÍDA EN SU INTERIOR;0,23
+2004270051;27/04/2020;MONCLOA;Ayuda descontaminación en base 0;Actividad programada en agenda Covid 19;10,31
+2004270057;27/04/2020;BARAJAS;RETÉN IFEMA;ACTIVIDADES PREVENTIVAS PROGRAMADAS;24,56
+2004270060;27/04/2020;ARGANZUELA;Desinfección de residencia geriátrica C2155 Los Nogales Imperial;Covid 19;5,25
+2004270090;27/04/2020;MONCLOA;Descontaminación y transferencia de pacientes en residencia Santa Teresa anexa al colegio religioso María Auxiliadora;Actividad planificada según agenda Covid 19;6,28
+2004270117;27/04/2020;SAN BLAS;Apertura de puerta, persona en interior.;Persona mayor caída en su domicilio.;0,37
+2004270151;27/04/2020;CIUDAD LINEAL;Desinfección instalación Policía Municipal UID Ciudad Lineal;Actividad programada en agenda Covid 19;3,15
+2004270153;27/04/2020;CHAMARTIN;Valoración de residencia religiosa Franciscanas Misioneras de María;Actividad programada en agenda Covid 19;0,5
+2004270171;27/04/2020;CHAMARTIN;Valoración de seguimiento de residencia geriátrica C0485 María Inmaculada;Covid 19;0,38
+2004280051;28/04/2020;MONCLOA;Desinfeccción de intervinientes en Base 0 de SAMUR;covid19;8,33
+2004280060;28/04/2020;CHAMARTIN;Desinfección de residencia María Inmaculada;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,58
+2004280062;28/04/2020;BARAJAS;Desinfeccion de CO BARAJAS en Calle Zaorejas;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,19
+2004280084;28/04/2020;USERA;Evaluación para desinfección de Residencia MADRID ORCASUR en Calle Salobreña 2;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,28
+2004280118;28/04/2020;ARGANZUELA;Desinfección de Unidad Especial de Tráfico;Covid19;2,16
+2004280134;28/04/2020;USERA;Desinfección de Residencia MADRID ORCASUR en calle Salobreña 2.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,14
+2004280155;28/04/2020;CHAMARTIN;Desinfección de Residencia Franciscanas Misioneras de María II en calle Juan de la Cierva 8.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,2
+2004280163;28/04/2020;SALAMANCA;Apertura de puerta por persona solicitando auxilio.;Caida de persona en vivienda.;0,22
+2004290041;29/04/2020;CENTRO;Descontaminación instalaciones;Servicios de descontaminación para servicios esenciales municipales por crisis COVID.;11,02
+2004290047;29/04/2020;CENTRO;RETEN IFEMA;DESCONOCIDO;23,43
+2004290052;29/04/2020;CENTRO;Desinfección de dependencias de una residencia;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,44
+2004290059;29/04/2020;FUENCARRAL;Evaluación pesada, junto a SAMUR y Políticas sociales de la CM, de residencia MIRASIERRA en calle Portera del Cura 1.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,41
+2004290062;29/04/2020;CARABANCHEL;Descontaminación residencia;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,46
+2004290064;29/04/2020;LATINA;Reconocer instalaciones en una residencia de religiosas.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;0,42
+2004290081;29/04/2020;LATINA;Reconocimiento y desinfección de instalaciones de Policía Municipal;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;4
+2004290110;29/04/2020;CIUDAD LINEAL;Reconocimiento de instalaciones en una residencia de religiosas.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;0,44
+2004290111;29/04/2020;SALAMANCA;Reconocimiento y descontaminación de residencia religiosa.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,59
+2004290131;29/04/2020;CIUDAD LINEAL;Reconocimiento y evaluación de una residencia, a solicitud de sus responsables, que nos piden su evaluación al acudir a otra previamente en calle Arturo Soria 71.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;0,24
+2004290191;29/04/2020;ARGANZUELA;Reconocimiento de Residencia de mayores.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,23
+2004300022;30/04/2020;MONCLOA;Colaboración Bomberos Samur PC, Descontaminación de personal sanitario;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;9,23
+2004300031;30/04/2020;VICALVARO;Desinfección de UID distrito Vicálvaro y vehículo;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;2,02
+2004300033;30/04/2020;SALAMANCA;DESCONTAMINACION Y DESINFECCION DE RESIDENCIA DE ANCIANOS LA GUINDALERA.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;8,11
+2004300074;30/04/2020;LATINA;APERTURA DE PUERTA Y ACCESO A VIVIENDA.;LA PROPIETARIA NO RESPONDE Y PODRÍA NECESITAR AYUDA.;0,28
+2004300085;30/04/2020;HORTALEZA;RECONOCIMIENTO LIGERO DE RESIDENCIA SANTO CRISTOBAL DEL NOGAL;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;0,46
+2004300133;30/04/2020;MORATALAZ;Desinfección de una UID de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;1,49
+2004300146;30/04/2020;CARABANCHEL;Desinfección de Instalaciones de PM, UID Carabanchel;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;1,3
+2004300148;30/04/2020;RETIRO;RECONOCIMIENTO LIGERO DE RESIDENCIA SANTA MARIA DEL ESPEJO PARA ORGANIZAR DESINFECCIÓN DE ESPACIOS COMUNES POR COVID 19;ACTIVIDAD PENDIENTE DE LA UDECO DEL DIA 29 DE ABRIL. Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,16
+2004300179;30/04/2020;CHAMARTIN;RECONOCIMIENTO LIGERO DE RESIDENCIA EL VISO CASA BLANCA PARA DESINFECCIÓN DE HABITACIONES POR COVID 19;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;1,06
+2004300237;30/04/2020;CHAMARTIN;APERTURA DE PUERTA;SOLICITUD DE SUMA;0,47
+2005010050;01/05/2020;ARGANZUELA;GUARDIA RETEN IFEMA.;RETEN;21,42
+2005010057;01/05/2020;CHAMARTIN;Descontaminación y desinfección de Residencia Centro de Mayores El Viso.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;3
+2005010081;01/05/2020;MONCLOA;Evaluación y valoración Residencia Pedro Justo Dorado;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;1,19
+2005010103;01/05/2020;TETUAN;Descontaminación y desinfección Residencia Isabel la Catolica.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;1,31
+2005010141;01/05/2020;TETUAN;Descontaminación y desinfección Mini Residencia Tetuán.;Actividad agendada COVID 19;1,47
+2005010200;01/05/2020;USERA;Apertura de puerta de domicilio en cuyo interior hay una persona mayor caída.;Se desconoce;0,5
+2005020061;02/05/2020;FUENCARRAL;Vehiculo patrulla infectado.;COVID19;0,2
+2005020179;02/05/2020;PUENTE VALLECAS;Persona en el interior de la vivienda,que no contesta. Apertura de puerta;Persona fallecida.;0,49
+2005030062;03/05/2020;CHAMBERI;Desinfección de espacios comunes en residencia de mayores.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,23
+2005030084;03/05/2020;SALAMANCA;Desinfección de habitaciones en una residencia de mayores.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;0,47
+2005030113;03/05/2020;VILLAVERDE;Desinfección de instalaciones en residencia de mayores.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,2
+2005030185;03/05/2020;SALAMANCA;Revisión de instalaciones para posible desinfección.;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID. Sin actuación.;0
+2005040071;04/05/2020;PUENTE VALLECAS;Desinfección de residencia MEDINACELI;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;4,39
+2005040124;04/05/2020;VILLAVERDE;Desinfección de residencia Villaverde Alzheimer;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;
+2005040182;04/05/2020;FUENCARRAL;Desinfección de residencia ATENEA MIRASIERRA;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;
+2005050055;05/05/2020;ARGANZUELA;Descontaminación de residencia ATENEA MIRASIERRA.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,42
+2005050085;05/05/2020;TETUAN;Descontaminación de residencia TETUAN en calle Pinos Baja 88.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,09
+2005050114;05/05/2020;MONCLOA;Descontaminación de instalaciones de policía municipal.;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;
+2005050225;05/05/2020;CARABANCHEL;Apertura de puerta;Bloqueo de la cerradura;0,07
+2005060035;06/05/2020;PUENTE VALLECAS;CAPTACION DE DATOS;CAPTACION DATOS;1,27
+2005060051;06/05/2020;MONCLOA;Desinfección de Residencia Santa Teresa en calle Maria Auxiliadora 9;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,01
+2005060052;06/05/2020;SALAMANCA;Persona que no contesta desde hace tiempo. Apertura de puerta;Se desconoce.;0,3
+2005060103;06/05/2020;BARAJAS;Desinfección de instalaciones de Policía Municipal;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;1,27
+2005060150;06/05/2020;USERA;Desinfección en Residencia Amavir Usera.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,13
+2005070073;07/05/2020;ARGANZUELA;Desinfección y descontaminaciones plantas intermedias en Residencia los Nogales Paseo Imperial.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;4,3
+2005070209;07/05/2020;ARGANZUELA;Descontaminación y desinfección Residencia Los Nogales Santa Eugenia.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;2,1
+2005070258;07/05/2020;PUENTE VALLECAS;Apertura de puerta;Persona encerrada en su terraza;0,25
+2005080088;08/05/2020;ARGANZUELA;Dispositivo de colaboración de Bomberos en entrega de alimento y medios de protección.;Programa de colaboración ante COVID19;
+2005080093;08/05/2020;RETIRO;APERTURA DE PUERTA;PERSONA QUE NO RESPONDE;0,32
+2005080125;08/05/2020;CHAMARTIN;DESINFECCIÓN Y DESCONTAMINACIÓN DE RESIDENCIA DE ANCIANOS;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,34
+2005080224;08/05/2020;CENTRO;DESINFECCIÓN Y DES CONTAMINACIÓN DE RESIDENCIA DE ANCIANOS CASABLANCA VILLAVERDE;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM;2,25
+2005090043;09/05/2020;PUENTE VALLECAS;PRESTACIÓN DE AYUDA A SAMUR PARA TRASLADO.;PERSONA IMPEDIDA EN DOMICILIO.;1,46
+2005090114;09/05/2020;PUENTE VALLECAS;Descontaminación de un vehículo de policía municipal;Supuestamente por traslado de persona contaminada por covid 19. Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;0,11
+2005090140;09/05/2020;CENTRO;Reconocimiento pesado y evaluación junto a SAMUR del Convento de las Comendadoras;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,2
+2005090149;09/05/2020;MONCLOA;Evaluación pesada, junto a SAMUR y Políticas sociales de la CM, de la residencia de personas mayores San Enrique y santa Rita.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;5,44
+2005090154;09/05/2020;CHAMBERI;SALVAMENTO DE ENFERMO;DESCONOCIDO;0,23
+2005090169;09/05/2020;VILLAVERDE;Desinfección, en una comisaría de Policía Municipal, de local, oficinas, pasillos, entradas y emisora supuestamente contaminadas por covid 19.;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;1,14
+2005100001;10/05/2020;RETIRO;Levantar del suelo persona caída;Avanzada edad;1,56
+2005100054;10/05/2020;CENTRO;Solicitar servicios de desinfección preventiva en instalaciones de Policía Municipal;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;0,16
+2005100184;10/05/2020;VILLA DE VALLECAS;APERTURA DE PUERTA;DESCONOCIDO;0,22
+2005100214;10/05/2020;PUENTE VALLECAS;PERSONA CAIDA EN DOMICILIO. Apertura de puerta;SE DESCONOCE;0,08
+2005100218;10/05/2020;CENTRO;PERSONA CAIDA EN DOMICILIO. Apertura de puerta;SE DESCONOCE;0,31
+2005110038;11/05/2020;CIUDAD LINEAL;Apertura de puerta.;Persona mayor en el interior no responde.;0,46
+2005110063;11/05/2020;USERA;Desinfección programada de la residencia San Vicente en C Rafaela Ybarra 75.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1
+2005110085;11/05/2020;CENTRO;Desinfección de una base de UID CENTRO SUR de PM;Servicios de descontaminación de infraestructuras de servicios esenciales municipales por crisis COVID.;2,29
+2005110109;11/05/2020;CENTRO;APERTURA DE PUERTA;NO RESPONDE A LLAMADAS;0,4
+2005110128;11/05/2020;ARGANZUELA;Desinfección y reconfiguración del Centro Ocupacional Carabanchel, en General Ricardos 177.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;5,57
+2005110129;11/05/2020;ARGANZUELA;EVALUACIÓN LIGERA DE RESIDENCIA NUESTRA SEÑORA DEL PERPETUO SOCORRO;PROGRAMACIÓN DE RECONOCIMIENTOS E INTERVENCIONES EN RESIDENCIAS COORDINADA DESDE CENTRO DE CONTROL DE CRISIS COVID PLATERCAM;1,28
+2005110211;11/05/2020;SAN BLAS;Vuelco de un vehículo, resultando heridos el conductor y el acompañante.;Se desconoce.;0,44
+2005110217;11/05/2020;SALAMANCA;Apertura de puerta, persona que no responde.;Desconocido.;0,09
+2005120091;12/05/2020;ARGANZUELA;Desinfección de Residencia Nuestra Señora del Perpetuo Socorro en calle Ancora 42;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,01
+2005120095;12/05/2020;CIUDAD LINEAL;Falsa alarma. ;Alertados por posible apertura de puerta;0,15
+2005120105;12/05/2020;SALAMANCA;EVALUACIÓN PARA DISEÑO DE ACTUACIÓN DE DESCINFECCIÓN;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;1,2
+2005120169;12/05/2020;SALAMANCA;DESCONTAMINACIÓN Y DESINFECCIÓN DE RESIDENCIA LA GUINDALERA.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,55
+2005130065;13/05/2020;CARABANCHEL;Desinfección programada del Centro ocupacional Carabanchel en calle General Ricardos 177.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,32
+2005130075;13/05/2020;VILLAVERDE;Evaluación pesada, junto a SAMUR y Políticas sociales de la CM, de residencia AMAVIR VILLAVERDE.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;2,4
+2005130159;13/05/2020;CENTRO;Desinfección de residencia de religiosas en el convento de las comendadoras en plaza de las comendadoras 10.;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;4,14
+2005140119;14/05/2020;CENTRO;Zona de trabajo en comisaria con persona que ha dado positivo;COVID 19;1,17
+2005140207;14/05/2020;VICALVARO;PERSONA CAÍDA EN SU VIVIENDA. APERTURA DE PUERTA.;DESCONOCIDO.;1,22
+2005170225;17/05/2020;ARGANZUELA;Apertura de puerta.;Persona en el interior del domicilio que no responde al timbre.;0,53
+2005170306;17/05/2020;VILLAVERDE;Apertura de puerta a solicitud de un familiar.;Tenía la llave puesta en el interior y la familia no podía entrar.;0,45
+2005180114;18/05/2020;RETIRO;Desinfección de varias zonas de la residencia;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM. Desinfección instalaciones que han alojado personas contagiadas con COVID;2,11
+2005190048;19/05/2020;USERA;Persona caida en interior, apertura de puerta.;Se desconoce;0,4
+2005190071;19/05/2020;MONCLOA;Desinfección programada en residencia Casasolar Sto Duque de Gandía en C Aniceto Marinas 114;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;5,03
+2005190082;19/05/2020;CENTRO;ASESORAMIENTO Y RECONOCIMIENTO DE RESIDENCIA DE PERSONAS CON ENFERMEDADES MENTALES HORTALEZA;Programación de reconocimientos e intervenciones en residencias coordinada desde centro de control de crisis COVID PLATERCAM.;3,04
+2005190301;19/05/2020;CENTRO;Persona en interior de vivienda que no responde.;Enfermedad, posible Covid19;2,29
+2005210229;21/05/2020;VILLAVERDE;Apertura de Puerta, persona enferma en su interior.;Indeterminado.;0,34
+2005220214;22/05/2020;USERA;APERTURA DE PUERTA;PERSONA (positiva en COVID19) QUE NO RESPONDE;1,06
+2005230245;23/05/2020;USERA;Apertura de puerta.;Persona en caida en el suelo sin poderse levantar.;0,15
+2005240133;24/05/2020;CHAMARTIN;Descontaminación de zona U.V.I. del Hospital San Rafael;Actividad agendada por pandemia COVID para descontaminación de infraestructuras esenciales;1,55
+2005260309;26/05/2020;HORTALEZA;DESCONTAMINACION VEHICULO PM;POSIBLE COVIP;0,19
+2005290219;29/05/2020;SALAMANCA;APERTURA DE PUERTA POR PERSONA CAÍDA EN SU INTERIOR;DESCONOCIDO;1,39
+2006020163;02/06/2020;CARABANCHEL;PERSONA FALLECIDA EN EL INTERIOR DE SU DOMICILIO;SE DESCONOCE;1,29
+2006020173;02/06/2020;SAN BLAS;Apertura de puerta.;Persona caida en el interior.;0,51
+2006020242;02/06/2020;FUENCARRAL;APERTURA DE PUERTA.;PERSONA CAIDA EN INTERIOR DE VIVIENDA.;0,22
+2006020276;02/06/2020;CENTRO;APERTURA DE PUERTA;PERSONA NO CONTESTA EN EL INTERIOR DE LA VIVIENDA;0,16
+2006020279;02/06/2020;CHAMBERI;Persona mayor no responde.;Desconocido.;0,01
+2006020294;02/06/2020;CHAMBERI;Desinfección de instalaciones de una comisaria de policía municipal.;Actuación en dichas dependencias con un posible caso de COVID 19;1,13
+2006100333;10/06/2020;CENTRO;PERSONA FALLECIDA EN SU VIVIENDA CON SÍNDROME DE DIÓGENES;SE DESCONOCE;2,58
+2006140274;14/06/2020;TETUAN;Apertura de puerta.Persona en interior no responde pero ha activado teleasistencia.;se desconoce;0,09
+2006140274;14/06/2020;TETUAN;Apertura de puerta.Persona en interior no responde pero ha activado teleasistencia.;se desconoce;0,09
+2006150153;15/06/2020;MONCLOA;APERTURA DE PUERTA;POSIBLE PERSONA EN SU INTERIOR ENFERMA;2,17
+2006230044;23/06/2020;CIUDAD LINEAL;Persona caída en baño;Desconocido;1,15
+2006260448;26/06/2020;SAN BLAS;Mujer que solicita ayuda,apertura de puerta.;Caida, posible fractura de cadera;0,56
+2006290154;29/06/2020;CENTRO;Desinfección de dos coches patrullas de PM;Covid 19;0,28
+2007010127;01/07/2020;MONCLOA;Vehículo atascado sobre mediana;Salida del vehículo del carril;1,07
+2007010248;01/07/2020;PUENTE VALLECAS;desinfeccion de 2 coches de policia municipal;se desconoce;0,33
+2007020060;02/07/2020;SALAMANCA;Humo saliendo de vivienda.;Incendio en cocina.;2,2
+2007020284;02/07/2020;CHAMARTIN;PERSONA CAÍDA DENTRO DE VIVIENDA;SE DESCONOCE;1,03
+2007030140;03/07/2020;ARGANZUELA;APERTURA DE PUERTA EN DOMICILIO;CAÍDA DE PERSONA EN DOMICILIO;0,24
+2007030540;03/07/2020;TETUAN;Fuego en vivienda en planta 4º.;Se desconoce;1,42
+2007030577;03/07/2020;SAN BLAS;Descontaminacion y desinfección de Vehículo Policial.;COVID 19;0,21
+2007030599;03/07/2020;ARGANZUELA;Desinfección y descontaminacion de vehículo Policial.;COVID 19;0,05
+2007040183;04/07/2020;ARGANZUELA;Descontaminación vehículo P.M.;COVID 19;0,43
+2007040212;04/07/2020;SAN BLAS;DESCONTAMINAR UN COCHE PATRULLA POLICÍA MUNICIPAL;SOLICITA EL SERVICIO POLICÍA MUNICIPAL;0,37
+2007090178;09/07/2020;ARGANZUELA;Limpieza de coche patrulla;Transportar personas con posible covid 19;1,33
+2007100362;10/07/2020;VILLAVERDE;Accidente de tráfico con una persona atrapada;Se desconoce;0,29
+2007180172;18/07/2020;CHAMBERI;Presunto suicida.;Se desconoce.;0,21
+2007180186;18/07/2020;CHAMBERI;Avisar a vecinos de una finca la presencia de un vecino afectado por Covid19;Presunto suicida contagiado por Covid19;0,36
+2007240329;24/07/2020;VILLAVERDE;Apertura de puerta;Persona en vivienda que no responde;1,36
+2007240487;24/07/2020;CARABANCHEL;Persona caída en el interior de su vivienda que no puede abrir y pide auxilio;Indeterminado;0,45
+2007270502;27/07/2020;USERA;Apertura de puerta por persona caída en su domicilio;Se desconoce;1,18
+2007280532;28/07/2020;PUENTE VALLECAS;Varón con brotes psicóticos amenaza con arrojarse por una ventana a vía pública;Desconocido;0,36
+2007290237;29/07/2020;CIUDAD LINEAL;APERTURA DE PUERTA;NO CONTESTAN A LA CUIDADORA;0,4
+2007290257;29/07/2020;BARAJAS;FILTRACIONES DE AGUA;PERSONA CAIDA SOBRE SANITARIO EN PL SUPERIOR;1,58
+2007310076;31/07/2020;CENTRO;Apertura de puerta por persona que necesita ayuda;Desconocido;1,05
+2007310140;31/07/2020;CARABANCHEL;APERTURA DE PUERTA .;PERSONAS QUE NO RESPONDEN .;1,3
+2007310325;31/07/2020;TETUAN;Apertura de puerta;Código 6;1,14
+2008010136;01/08/2020;CIUDAD LINEAL;Apertura de puerta;Persona mayor que pide auxilio;0,37
+2008020169;02/08/2020;CARABANCHEL;Apertura puerta por persona pidiendo auxilio;Desconocido;0,35
+2008040177;04/08/2020;FUENCARRAL;Persona fallecida en el interior.;Desconocido.;0,52
+2008040259;04/08/2020;HORTALEZA;VARON FALLECIDO EN GASOLINERA;SE DESCONOCE;1,2
+2008040274;04/08/2020;PUENTE VALLECAS;DESCONTAMINACION DE VEHICULO POLICIA MUNICIPAL MADRID;TRASLADO DE PERSONA CON SINTOMAS COVID 19;0,15
+2008050432;05/08/2020;TETUAN;Desinfectar dependencias de policía municipal por covid19;Agente de policía que a dado positivo en covid19;1,05
+2008050470;05/08/2020;HORTALEZA;Descontaminar un coche patrulla;Positivo en covid19;0,09
+2008080388;08/08/2020;CHAMBERI;Apertura de puerta con persona caida en su interior.;Desconocido.;0,4
+2008100105;10/08/2020;TETUAN;Apertura de puerta.;Persona caida en domicilio.(Posible covid);0,25
+2008100264;10/08/2020;MONCLOA;DESINFECCIÓN DE VEHÍCULO P.M.;POSIBLE POSITIVO CORONAVIRUS.;0,23
+2008100332;10/08/2020;MONCLOA;Apertura de puerta, mal olor en el portal.;Fallecido en el interior.;1,04
+2008110387;11/08/2020;TETUAN;Descontaminación de vehículo de POLICÍA MUNICIPAL.;DESCONOCIDO.;0,2
+2008150198;15/08/2020;PUENTE VALLECAS;descontaminar coches patrulla por posible cov 19;solicita el servicio policía municipal;0,22
+2008170024;17/08/2020;CIUDAD LINEAL;PERSONA PIDIENDO AUXILIO EN SU VIVIENDA.;SIN DETERMINAR.;0,38
+2008170373;17/08/2020;PUENTE VALLECAS;Conato de incendio en vivienda.;Incendio de colchón en habitación de vivienda.;1,02
+2008170393;17/08/2020;VICALVARO;Apertura de puerta posible covid;desconocido;0,36
+2008250253;25/08/2020;PUENTE VALLECAS;Descontaminación vehiculo de policía municipal;Desconocido;0,41
+2008260385;26/08/2020;PUENTE VALLECAS;apertura de puerta;se desconoce;1,13
+2008270333;27/08/2020;SALAMANCA;APERTURA DE PUERTA;PEROSNA QUE NO RESPONDE;0,12
+2008270417;27/08/2020;CIUDAD LINEAL;APERTURA DE PUERTA EN VIVIENDA;ANCIANO CAÍDO;1,01
+2008310118;31/08/2020;PUENTE VALLECAS;Descontaminación coche patrulla.;Positivo por Covid19;0,2
+2008310137;31/08/2020;CENTRO;Descontaminación de un coche patrulla.;Positivo por Covid19;0,25
+2009030400;03/09/2020;MONCLOA;APERTURA DE PUERTA DE UNA VIVIENDA.;APERTURA DE PUERTA DE UNA VIVIENDA PARA SOCORRER A UNA PERSONA.;1,33
+2009040182;04/09/2020;LATINA;Apertura de vivienda, incidencia en el lugar de Covid19;Rescatar un Can dentro de la vivienda;1,03
+2009040242;04/09/2020;MONCLOA;Descontaminacion de instalaciones de Jefatura de Policía Municipal.;Casos positivos de COVID 19 .;0,41
+2009070201;07/09/2020;SALAMANCA;Desinfección de Instalaciones por sospecha de Covid19;Preventivo;0,54
+2009070279;07/09/2020;CENTRO;Limpiar estancias positivo por covid 19;Se desconoce;0,15
+2009080195;08/09/2020;CIUDAD LINEAL;Apertura de puerta.;Desconocido.;0,08
+2009090206;09/09/2020;SAN BLAS;Nos activan para descontaminar un vehículo de la policía municipal.;Traslado de persona que dio positivo horas después.;0,24
+2009090208;09/09/2020;SALAMANCA;Desinfección de espacios y superficies de algunas estancias del CISEM;Covid 19;1,21
+2009090276;09/09/2020;SALAMANCA;Desinfección de espacios y superficies de algunas estancias del CISEM;Covid 19;1,24
+2009100185;10/09/2020;CHAMBERI;Descontaminación de la unidad integral del distrito de Chamberí de POLICIA MUNICIPAL;Casos confirmados de covid 19.;0,54
+2009110044;11/09/2020;SALAMANCA;Descontaminación de dependencias.;Posible COVID.;0,46
+2009110446;11/09/2020;CENTRO;DESINFECCION ESTANCIAS PARQUE 6 BOMBEROS;INDEFINIDO;1,03
+2009140067;14/09/2020;RETIRO;Apertura de puerta con persona caída en el interior;Se desconoce;0,49
+2009140069;14/09/2020;CHAMBERI;Mujer de avanzada edad pidiendo auxilio en su domicilio;Caída al suelo de la víctima;0,26
+2009150507;15/09/2020;LATINA;Persona enferma en vivienda.;Al parecer coronavirus.;0,56
+2009150510;15/09/2020;LATINA;Presunto suicida.;Desconocido;0,12
+2009170374;17/09/2020;PUENTE VALLECAS;Mujer caída en el suelo de su vivienda donde nos reclaman para subirla a la cama. diagnosticada por PCR positivo COVID19.;Solicitud de teleasistencia y SUMMA;2,15
+2009180058;18/09/2020;ARGANZUELA;FUEGO EN VIVIENDA EN ENTRAMADO DE MADERA;SE DESCONOCE;7,52
+2009180262;18/09/2020;MONCLOA;Positivo por covid19 en instalaciones públicas.;Desconocido.;0,46
+2009200270;20/09/2020;CHAMARTIN;DESCONTAMINACION EDIFCIO;VARIOS POSITIVOS COVID;1,27
+2009210158;21/09/2020;HORTALEZA;DESINFECCION DE LA U.I.P. DE HORTALEZA.;DESINFECCION DE DEPENDENCIAS MUNICIPALES.;1,09
+2009210219;21/09/2020;SALAMANCA;DESINFECCION DE DEPENDENCIAS DEL CISEM.;DESINFECCION DE CUARTO DE TAQUILLAS DEL PERSONAL DE LIMPIEZA DEL CISEM.;0,09
+2009230289;23/09/2020;SALAMANCA;DESINFECCIÓN DE ZONAS;COVID POSITIVO TURNO A;0,42
+2009240276;24/09/2020;MONCLOA;Persona en interior de vivienda que no responde, posible Covid19;Se desconoce;0,38
+2009240453;24/09/2020;CARABANCHEL;Apertura de puerta ( Sin Intervención );Persona enferma en su interior;0,07
+2009300354;30/09/2020;ARGANZUELA;Apertura de puerta.;Persona en interior de vivienda que no responde y tiene puesta la cadena en la puerta.;0,11
+2010050372;05/10/2020;MONCLOA;DESCONTAMINACIÓN DE UNIDAD DE POLICIA.;A PETICIÓN DE POLICÍA MUNICIPAL POR PREVENCIÓN RIESGO DE CONTAGIO COVID.;0,42
+2010050391;05/10/2020;TETUAN;Apertura de puerta;Se desconoce;0,55
+2010070193;07/10/2020;PUENTE VALLECAS;Descontaminación de coche patrulla de Policía Municipal por COVID19;Traslado en coche patrulla de posible COVID19;0,18
+2010090472;09/10/2020;CENTRO;Traslado de una persona desde el salón de su casa hasta la cama.;No tener movilidad.;0,42
+2010110112;11/10/2020;PUENTE VALLECAS;Descontaminacion en instalaciones de Policia Municipal;Funcionario con COVID confirmado;0,3
+2010120240;12/10/2020;PUENTE VALLECAS;Descontaminación de dependencias municipales pOLICIA Municipal.;Indeterminado.;0,18
+2010130063;13/10/2020;SALAMANCA;Descontaminación vehículo policía municipal;Desconocido;0,15
+2010140077;14/10/2020;VICALVARO;PERSONA CAÍDA EN SU VIVIENDA. APERTURA DE PUERTA.;DESCONOCIDO.;0,38
+2010150275;15/10/2020;MONCLOA;Desinfección de las instalaciones de la Banda de música de la PM;Personas positivas en Covid 19;0,5
+2010160316;16/10/2020;ARGANZUELA;Desinfección de dependencias municipales de policía y cinco vehículos.;Aparición de tres casos positivos en la unidad.;1,01
+2010190131;19/10/2020;CHAMBERI;Descontaminación del cuarto del bedel del parque por posible covid 19.;Desconocido.;0
+2010211107;21/10/2020;LATINA;APERTURA DE PUERTA (FALSA ALARMA);DESCONOCIDO;0,17
+2010220295;22/10/2020;LATINA;DESCONTAMINACION DEPENDENCIAS PARQUE 12;BROTE SARCOV2 EN TURNOS BE;1,28
+2010220341;22/10/2020;CARABANCHEL;PERSONA ENFERMA ENCERRADA EN EL INTERIOR DE SU VIVIENDA;LLAMADA POR ELLA MISMA AL 112;0,4
+2010220383;22/10/2020;PUENTE VALLECAS;Descontaminación de despacho y vehículo en comisaria de POLICIA MUNICIPAL.;Posble covid.;0,32
+2010230027;23/10/2020;CENTRO;DESCONTAMINACIÓN DEPENDENCIAS DEL PARQUE;POSIBLE POSITIVO POR COVID 19;0,48
+2010230039;23/10/2020;SALAMANCA;LABORES DE DESCONTAMINACION POSIBLE COVID19;A PETICION DEL CISEM;5,5
+2010230264;23/10/2020;CARABANCHEL;Apertura de puerta en domicilio, por persona que no responde.;Se desconoce.;0,42
+2010270307;27/10/2020;CENTRO;Desinfección de dependencias municipales;COVID;0,53
+2010310176;31/10/2020;LATINA;DESCONTAMINACION DE UID DE LATINA DE POLICIA MUNICIPAL;COVID19;1,09
+2011040051;04/11/2020;CARABANCHEL;Desinfección instalaciones de UID Carabanchel;Covid 19;0,44
+2011040080;04/11/2020;FUENCARRAL;persona caída en el interior de su vivienda pidiendo auxilio;persona de avanzada edad no puede levantarse del suelo por caida;1,44
+2011040128;04/11/2020;ARGANZUELA;Desinfección vehículo oficial de PM;SarsCoV2;0,36
+2011060092;06/11/2020;MONCLOA;Descontaminación de instalaciones municipales. División General de protección civil. Departamento: subdirección general de recursos humanos.;Desconocido;0,58
+2011100300;10/11/2020;RETIRO;DESCONTAMINACION DE DEPENDENCIAS MUNICIPALES;DESCONOCIDO;1,16
+2011140366;14/11/2020;HORTALEZA;Descontaminación de dependencias municipales.;Positivo por COVID19;0,51
+2011160260;16/11/2020;SAN BLAS;DESINFECCION DE PARQUE DE BOMBEROS;DESCONOCIDO;1,14
+2011160281;16/11/2020;VILLA DE VALLECAS;APERTURA PUERTA;DESCONOCIDO;0,29
+2011170234;17/11/2020;LATINA;ACCESO A VIVIENDA Y APERTURA DE SU PUERTA.;NIÑO QUE HA QUEDADO ENCERRADO EN EL INTERIOR DE LA VIVIENDA ACCIDENTALMENTE.;0,21
+2011170259;17/11/2020;ARGANZUELA;DESINFECCION DE ALMACENES CENTRALES DE POLICIA MUNICIPAL.;DESINFECCION DE COMISARIA DE POLICIA MUNICIPAL.;1,05
+2011180325;18/11/2020;MONCLOA;Descontaminar UID Moncloa Aravaca;Brote de coronavirus;1,17
+2011180335;18/11/2020;SAN BLAS;Descontaminación de un coche patrulla de Policía Municipal;Agente de Policía Municipal afectado por COVID19;0,4
+2011190246;19/11/2020;MONCLOA;DESINFECCION DE COMISARIA;DESCONOCIDO;0,42
+2011240079;24/11/2020;TETUAN;Desinfección vehículo Policial.;Incidente por COVID 19;0,24
+2011240090;24/11/2020;ARGANZUELA;Desinfección de dependencias Policiales.;Incidente COVID 19.;0,57
+2011240317;24/11/2020;CENTRO;DESCONTAMINACION DEPENDENCIAS PARQUE 3;POSITIVO POR SARSCOV2;0,43
+2011240361;24/11/2020;ARGANZUELA;policía municipal de la guardia de ayer con positivo de covid 19;covid 19;0,57
+2011240424;24/11/2020;ARGANZUELA;APERTURA DE PUERTA PERSONA ENFERMA EN DOMICILIO;DESCONOCIDO;1,05
+2011250088;25/11/2020;SALAMANCA;Descontaminación de unidad de policía municipal.;Se desconoce.;0,56
+2011250143;25/11/2020;ARGANZUELA;Descontaminacion ordinaria de dependencias de la policia municipal;Infeccion por COVID 19 de un miembro de la unidad.;0,38
+2012010271;01/12/2020;ARGANZUELA;DESCONTAMINACION DE VESTUARIOS UD TRÁFICO P.M.;VARIOS CASOS DE COVID;1,04
+2012020168;02/12/2020;LATINA;Desinfección de instalaciones de galería de tiro CIFSE;Covid 19;1,24
+2012030143;03/12/2020;CENTRO;DESCONTAMINACIÓN ESTANCIA AFECTADA P.M.;POSITIVO POR COVID19;0,3
+2012040312;04/12/2020;BARAJAS;Descontaminación de zonas comunes en interior de la Unidad de PM, por Covid 19;Preventivo;0,55
+2012060266;06/12/2020;VILLAVERDE;Atención a impedidos;Persona caída en una habitación;0,41
+2012060386;06/12/2020;SAN BLAS;Desinfectar la UID de San Blas Canillejas;covid 19;0,55
+2012110321;11/12/2020;CHAMBERI;DESINFECCIÓN DE UNIDAD INTEGRAL DE DISTRITO DE POLICÍA MUNICIPAL;COVID19;1,05
+2012110362;11/12/2020;ARGANZUELA;DESINFECCIÓN DE LA UNIDAD DE TRÁFICO DE POLICÍA MUNICIPAL;COVID 19;1,09
+2012130117;13/12/2020;MONCLOA;DESINFECCION DE COMISARIA DE POLICIA;SE DESCONOCE;0,43
+2012140337;14/12/2020;PUENTE VALLECAS;Valoración descontaminación UID Policía Municipal;Covid 19;0,12
+2012150090;15/12/2020;ARGANZUELA;Desinfección de instalaciones P.M.;Se desconoce;0,59
+2012150185;15/12/2020;HORTALEZA;Descontaminar varias dependencias en una comisaria de Policia Municipal.;Brote de coronavirus.;0,59
+2012150358;15/12/2020;MORATALAZ;Desinfección de comisaria de POLICIA MUNICIPAL. UNIDAD INTEGRAL DE MORATALAZ;caso confirmado de covid.;0,1
+2012160228;16/12/2020;MONCLOA;DESINFECCIÓN COCHE PATRULLA P.M.;CONDUCTOR DA POSITIVO EN COVID;0,2
+2012160291;16/12/2020;VILLA DE VALLECAS;RETIRAR DOS ANILLOS DE UN DEDO MEÑIQUE;INFLAMACIÓN DE LA EXTREMIDAD;1,06
+2012180032;18/12/2020;MORATALAZ;Desinfeccion de comisaría de policía municipal;Por personal positivo en COVID;0,35
+2012180087;18/12/2020;MORATALAZ;Descontaminar los vestuarios de la comisaria. P.M.;Brote de coronavirus.;0,09
+2012180435;18/12/2020;LATINA;Descontaminación Instalaciones CIFSE;Se desconoce;0,16
+2012190235;19/12/2020;CENTRO;Descontaminacion comisaría P.M.;COVID;1,04
+2012210263;21/12/2020;CENTRO;Desinfección de un coche de POLICIA MUNICIPAL.;Contacto con COVID.;0,32
+2012210307;21/12/2020;CHAMARTIN;Descontaminar comisaria de Policía Municipal.;Brote de coronavirus.;1,12
+2012220076;22/12/2020;ARGANZUELA;Desinfección de varias instalaciones de Unidad Judicial de PM;Contacto con personas positivo en Covid 19;0,35
+2012220145;22/12/2020;VILLAVERDE;Desinfección de algunas estancias de la UID Villaverde;Positivo por Covid de un PM;1,08
+2012220215;22/12/2020;SAN BLAS;Desinfección instancias policía municipal;Solicitud por contagios COVID;0,58
+2012220225;22/12/2020;MONCLOA;Descontaminacion en unidad de la Policia Municipal;Positivo por COVID 19;1,01
+2012230024;23/12/2020;VILLA DE VALLECAS;DESINFECCION DE DEPENDENCIAS POLICIALES POR COVID POSITIVO DE DOS AGENTES MUNICIPALES;POSITIVO POR COVID 19;0,46
+2012270300;27/12/2020;CENTRO;Descontaminación de vehículo oficial del AYUNTAMIENTO DE MADRID.;Posible covid.;0,13
+2012271386;27/12/2020;CHAMBERI;Descontaminación de convento de clausura y asesoramiento sobre medidas de prevención de contagios;covid19;2,55
+2012280390;28/12/2020;LATINA;Descontaminación de Coronavirus CESIF;Desconocido;0,47
+2012300351;30/12/2020;CENTRO;DESCONTAMINACIÓN VEHICULO PATRULLA;COVID19;0,26
+2012300444;30/12/2020;ARGANZUELA;Tratamiento de descontaminación de instalaciones de Policía Municipal.;Elevado número de positivos por Covid en uno de los turnos.;1,26
+2101010245;01/01/2021;CENTRO;Descontaminación de dependencias municipales.;Positivo en COVID19;0,37
+2101010302;01/01/2021;MONCLOA;DESCONTAMINACIÓN DEPENDENCIAS MUNICIPALES;PERSONAL POSITIVO COVID 19;0,51
+2101020265;02/01/2021;SAN BLAS;Descontaminación de dependencias de POLÍCIA MUNICIPAL.;Positivo de covid.;0,45
+2101030082;03/01/2021;HORTALEZA;Apertura de puerta de domicilio;Se desconoce;0,3
+2101050178;05/01/2021;MONCLOA;Desinfección de instalaciones de Policía Municipal.;Preventivo;1,38
+2101060084;06/01/2021;MONCLOA;Descontaminación de dependencias municipales;Positivo COVID19;0,21
+2101060120;06/01/2021;SALAMANCA;APERTURA DE PUERTA EN VIVIENDA;ANCIANA EN CAMA CON INSUFICIENCIA RESPIRATORIA;0,55
+2101070132;07/01/2021;MONCLOA;Descontaminaciòn de una dependencia de la Policia Municipal.;Indeterminado.;0,23
+2101070292;07/01/2021;MONCLOA;Descontaminar dependencias de la Policia Local.;Indeterminado.;0,11
+2101070297;07/01/2021;ARGANZUELA;Descontaminar dependencias de Policia Local.;Indeterminado.;0,26
+2101080284;08/01/2021;ARGANZUELA;Desinfección por positivo en covid;Positivos en covid;1,14
+2101080410;08/01/2021;CENTRO;Desinfección de dependencias de PM;Positivo en covid;0,48
+2101100457;10/01/2021;HORTALEZA;Trasporte Sanitario al Hospital Ramón y Cajal;Paciente por covid19;0,24
+2101110740;11/01/2021;RETIRO;DESCONTAMINACION DE VEHICULO OFICIAL;POSITIVO POR COVID;0,36
+2101111023;11/01/2021;SALAMANCA;Prestacion de medios a SUMA;desconocido;0
+2101130067;13/01/2021;TETUAN;Apertura de puerta;Desconocido;0,47
+2101140120;14/01/2021;FUENCARRAL;DESCONTAMINACIÓN DEPENDENCIAS MUNICIPALES;POSITIVO POR COVID;1,45
+2101141172;14/01/2021;CARABANCHEL;Desinfección de la comisaria;positivo en covid;1,05
+2101150296;15/01/2021;PUENTE VALLECAS;DESINFECCIÓN DE PARQUE;DESCONOCIDO;0,18
+2101150453;15/01/2021;LATINA;Descontaminacion de instancias CIFSE;Personal a dado positivo en la instalacion;1,2
+2101160043;16/01/2021;CHAMBERI;Desinfección del Edificio B del Parque 1º;Bombero positivo en Covid 19;1,17
+2101170481;17/01/2021;MONCLOA;Prestación de medios, descontaminación;Desconocido;0,33
+2101180023;18/01/2021;CARABANCHEL;Personas con dolor en pecho,dificultad respiratoria y temblores.;Desconocido.;0,23
+2101180107;18/01/2021;MONCLOA;descontaminación dependencias municipales.;solicita el servicio policía municipal.;0,33
+2101190371;19/01/2021;VILLA DE VALLECAS;desinfeccion parroquia ST Domingo de la calzada;se desconoce;0,57
+2101200091;20/01/2021;VILLAVERDE;LABORES DESINFECCIÓN PARQUE TALLER ALMACÉN;INFECTADOS POR COVID 19;1,42
+2101200276;20/01/2021;PUENTE VALLECAS;Labores de limpieza del Pº 10º;Evitar riesgos en el propio parque.;0,4
+2101200498;20/01/2021;VICALVARO;Descontaminación de dependencias de POLICIA MUNICIPAL.;Posible caso de covid.;0,35
+2101200648;20/01/2021;MONCLOA;Prestación de medios, desinfección;Desconocido;0,46
+2101200683;20/01/2021;MONCLOA;Descontaminación de comisaria de POLICIA MUNICIPAL.;Desconocido.;1,11
+2101200777;20/01/2021;PUENTE VALLECAS;Apertura de puerta.;Se desconoce.;0,46
+2101210154;21/01/2021;CHAMARTIN;DESCONTAMINACION OFICINA;COVID;0,57
+2101220634;22/01/2021;CIUDAD LINEAL;PERSONA EN DOMICILIO SIN PODER ABRIR PUERTA DE FORMA AÚTONOMA POSITIVO EN COVID;SE DESCONOCE;1,3
+2101230283;23/01/2021;SALAMANCA;DESCONTAMINACION DE INSTALACIONES;COVID 19;1,04
+2101250161;25/01/2021;FUENCARRAL;DESINFECCION DE DEPENDENCIAS MUNICIPALES.;POSITIVO DE COVID.;0,4
+2101250295;25/01/2021;SALAMANCA;Desinfección por COVID19;Positivo confirmado.;1,01
+2101250356;25/01/2021;MONCLOA;DESINFECCION DEPENDENCIAS POLICIA;POSITIVO COVID;0,43
+2101260518;26/01/2021;SALAMANCA;Descontaminacion de dependencias de Polícia Municipal en Rufino Blanco;Covid;0,39
+2101270027;27/01/2021;CENTRO;DAÑOS POR AGUA;SE DESCONOCE;0,32
+2101270059;27/01/2021;TETUAN;Persona que no responde.;Enfermo de Covid.;0,35
+2101270180;27/01/2021;LATINA;descontaminar un recinto de una comisaria municipal;por un positivo de un agente de covid 19;0,55
+2101270327;27/01/2021;LATINA;Descontaminar una camisaria de la policia muicipal;Por dar positivo covid un agente;0,41
+2101270502;27/01/2021;MORATALAZ;DESINFECCIÓN GARITA;POSITIVO COVID TURNO MAÑANA;0,08
+2101280134;28/01/2021;FUENCARRAL;DESINFECCIÓN DE LOCALES;PERSONA POSITIVA POR COVID19;0
+2101280437;28/01/2021;SALAMANCA;Áreas contaminadas por COVID19.;Positivo de COVID19 confrimado.;0,31
+2101290324;29/01/2021;SALAMANCA;Desinfección zonas comunes policía Municipal.;Contagios producidos por coronavirus.;1,05
+2101300151;30/01/2021;TETUAN;Falsa Alarma.;Apertura de puerta.;0,13
+2101300230;30/01/2021;SALAMANCA;Apertura de puerta en vivienda.;Persona en situación de riesgo.;0,43
+2101300484;30/01/2021;HORTALEZA;DESCONTAMINACION HABITACION Y TAQUILLAS;POSITIVO COVID;0,44
+2102010309;01/02/2021;PUENTE VALLECAS;Desinfección de la comisaría de PM;positivos en covid;0,5
+2102010436;01/02/2021;CENTRO;LABORES DE LIMPIEZA E INERTIZADO P.M .;POSIBLES CASOS DE COVID 19;0,18
+2102030177;03/02/2021;MONCLOA;Descontaminacion dependencias Municipales;Positivo COVID;0,13
+2102030257;03/02/2021;MONCLOA;Área contaminada P.M.;Positivos por COVID19;0,59
+2102040205;04/02/2021;TETUAN;Apertura de puerta con persona que no responde en el interior.;Desconocido.;2,37
+2102040454;04/02/2021;SALAMANCA;Apertura de puerta de un aseo por persona caída en su interior.;Se desconoce.;1,02
+2102050017;05/02/2021;FUENCARRAL;Apertura de puerta;Cerradura averiada.;1,13
+2102050080;05/02/2021;MONCLOA;Prestar medios para sectorizar vestíbulo de entrada centro de acogida;Preventivo;1,56
+2102050396;05/02/2021;MONCLOA;Descontaminar recinto municipal;Cso de Covid;0,14
+2102060055;06/02/2021;CENTRO;DESINFECTAR DEPENDENCIAS MUNICIPALES P.M.;POSITIVOS COVID;0,48
+2102110515;11/02/2021;VILLAVERDE;Tentativa de sucidio por ingestion de pastillas.;Se desconoce;0,32
+2102120351;12/02/2021;VICALVARO;Apertura de puerta;Persona caída en el interior;0,51
+2102170131;17/02/2021;USERA;DESCONTMINACION DESPACHO P.M.;POSITIVO COVID;0,24
+2102170217;17/02/2021;TETUAN;apertura de puerta;desconocido;0,25
+2102180258;18/02/2021;CENTRO;APERTURA DE PUERTA, PERSONA NO RESPONDE EN INTERIOR;SE DESCONOCE;0,18
+2102210362;21/02/2021;MONCLOA;Persona consciente y orientada que una vez nos abre la puerta refiere buen estado, deniega cualquier tipo de asistencia y advierte de la posibilidad de ser COVID19 Positivo;Alerta el llamante por ausencia de noticias de persona mayor desde el 6 de Febrero;0,09
+2102240259;24/02/2021;CENTRO;DESCONTAMINACIÓN COMISARIA P.M.;COVID 19;0,39
+2103050043;05/03/2021;CENTRO;DESINFECCIÓN DE DEPENDENCIAS MUNICIPALES.;POSITIVO EN COVID.;0,18
+2103240056;24/03/2021;TETUAN;DESCONTAMINACIÓN ESTANCIAS COMISARIA;POSITIVO COVID;0,58
+2103290044;29/03/2021;USERA;descontaminación por pòsitivo en Covid;Personal positivo en Covid;0,46
+2104080381;08/04/2021;PUENTE VALLECAS;Descontaminación de comisaria de POLICIA MUNICIPAL.;Posibles casos de covid.;0,43
+2104090246;09/04/2021;PUENTE VALLECAS;Descontaminación de comisaria de POLICIA MUNICIPAL.;COVID;0,42
+2104120041;12/04/2021;MONCLOA;descontaminacion de dependencia policia municipal.;Se desconoce.;0,23
+2104120183;12/04/2021;MONCLOA;Descontaminación de edificio en Dir. Gral de PM;Numerosos positivos por COVID confirmado en dicha oficina.;1,01
+2104120389;12/04/2021;PUENTE VALLECAS;Descontaminar vehículo de policía municipal.;Usuario del vehículo con positivo en COVID.;0
+2104130201;13/04/2021;CIUDAD LINEAL;Apertura de puerta por posible persona en su interior.;No responde a la llamada;1,16
+2104190393;19/04/2021;USERA;Apertura de puerta;Se desconoce;1,09
+2104210189;21/04/2021;ARGANZUELA;Desinfectar la comisaría de Policía municipal;persona infectada el día anterior en la comisaría;0
+2104220188;22/04/2021;SALAMANCA;Persona caída en domicilio;Se desconoce;0,4
+2104260189;26/04/2021;CARABANCHEL;Desinfección vehículo PM por positivo en covid.;Por transporte de una persona positivo en covid.;0,09
+2104270253;27/04/2021;CENTRO;Se solicita descontaminación de instalaciones de Policía Municipal.;Preventivo;0,32
+2105060269;06/05/2021;LATINA;Descontaminacion de dependencias de Policia Municipal;Compañero infectado;0,38
+2105060471;06/05/2021;VILLA DE VALLECAS;Apertura de puerta por persona enferma en interior;Persona enferma con posible COVID19;0,21
+2105070270;07/05/2021;TETUAN;DESINFECCION DE COMISARIA P.M;POSITIVO POR COVID;0,21
+2105080127;08/05/2021;VILLA DE VALLECAS;Desinfección de dependencias de comisaría;Positivos en Covid.;0,39
+2106040182;04/06/2021;VICALVARO;Descontaminación de patrulla.;Llevar persona con COVID.;0,27
+2107290045;29/07/2021;HORTALEZA;Colaboración con PM. Recogida de tests de antigenos usados y abandonados en VP;Indeterminado;3,35
+2108140014;14/08/2021;PUENTE VALLECAS;Descontaminación coche patrulla.;Positivo en COVID19.;0,15
+2108300032;30/08/2021;CENTRO;Descontaminacion de estancias P.M.;Positivos de Covid 19 en comisaría.;0,56
+2111100008;10/11/2021;TETUAN;Apertura puerta.;Persona en interior pide auxilio.;0,4
+2111250031;25/11/2021;SAN BLAS;Peticion de apertura por persona pidiendo auxilio, positiva en COVID19;Caída desde la cama;0,45
+201080047;03/01/2022;CIUDAD LINEAL;APERTURA DE PUERTA.;ANCIANA POSITIVA EN COVID,QUE NO SE PUEDE MOVER DE LA CAMA;0,12
+201090050;04/01/2022;MORATALAZ;Persona no se puede mover en el interior.;Desconocido.;0,14
+201152012;15/01/2022;CARABANCHEL;Apertura de puerta en vivienda.;Persona en situación de riesgo.;0,49
+201160005;11/01/2022;CHAMBERI;Persona caida en el suelo.;Desconocio.;0,32
+201172042;17/01/2022;HORTALEZA;APERTURA DE PUERTA;SOLICITUD DE TELEASISTENCIA(DOS SEÑORAS MAYORES QUE NO RESPONDEN);0,59
+201202066;20/01/2022;VILLAVERDE;APERTURA DE PUERTA;PERSONA MAYOR QUE NO CONTESTA Y ESTA ENFERMO;1,08
+204240045;24/04/2022;USERA;APERTURA DE PUERTA;Persona caída en vivienda;1,05
+205080038;08/05/2022;CENTRO;APERTURA DE PUERTAS.;COVID;0.20
+206210097;6/21/2022;VICALVARO;Persona caída en el interior.;Desconocido.;0,37
+206300065;6/30/2022;CHAMARTIN;Persona caída en vivienda y no abre la puerta;Desconocido;0,45
+207010075;07/01/2022;CENTRO;PERSONA NO RESPONDE DENTRO DE VIVIENDA;ENFERMO;0,38
+207020061;07/02/2022;CARABANCHEL;Incendio en una habitación de una residencia de ancianos.;Se desconoce la causa.;2,41
+207080065;07/08/2022;CIUDAD LINEAL;Apertura de puerta.;Persona caida en el interior;0,29
+207080096;07/08/2022;CIUDAD LINEAL;COLABORACIÓN CON SUMMA PARA BAJAR VIVIENDA A UNA PERSONA CON OBESIDAD MÓRBIDA.;PERSONA CON OBESIDAD MÓRBIDA Y COVID.;2,35
